@@ -1,0 +1,50 @@
+# Local raw data and archives
+raw_data/
+data/raw/
+data/raw_local_only/
+archive/
+*.rar
+*.zip
+*.7z
+*.csv.gz
+*.xlsx
+*.xls
+
+# Original academic/source files retained locally only
+Codex_Prompt.txt
+Prompts.txt
+Group_47_CodeFile.ipynb
+Group_47_Final_submission.pdf
+Group Projct Description-*.pdf
+
+# Keep public sample and documentation files trackable
+!data/sample/sample_luminatech_data.csv
+!data/metadata/data_dictionary.md
+!data/README_data_access.md
+
+# Python and Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+.mypy_cache/
+
+# Virtual environments and secrets
+.venv/
+venv/
+env/
+.env
+
+# Generated local outputs
+data/processed/
+*.parquet
+*.pkl
+*.joblib
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.tmp
+*.log
