@@ -1,8 +1,12 @@
 # Local raw data and archives
 raw_data/
+**/raw_data/
 data/raw/
+**/data/raw/
 data/raw_local_only/
+**/data/raw_local_only/
 archive/
+**/archive/
 *.rar
 *.zip
 *.7z
@@ -37,6 +41,7 @@ env/
 
 # Generated local outputs
 data/processed/
+**/data/processed/
 *.parquet
 *.pkl
 *.joblib
