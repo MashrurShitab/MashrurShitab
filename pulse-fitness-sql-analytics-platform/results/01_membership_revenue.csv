@@ -1,0 +1,4 @@
+﻿MembershipType,MemberCount,PaidPaymentCount,TotalPaidRevenue,AvgRevenuePerMember
+Premium,182,1006,60360.00,331.65
+Basic,231,1320,39600.00,171.43
+Student,175,982,24550.00,140.29

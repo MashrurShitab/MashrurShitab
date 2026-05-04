@@ -1,0 +1,39 @@
+# Database dumps and local database files
+*.bak
+*.tmp
+*.log
+*.db
+*.sqlite
+*.sqlite3
+*.sql.gz
+*.dump
+
+# Local environments and caches
+.env
+.venv/
+venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Archived original academic/source files
+archive/original_assignment_report.docx
+archive/original_assignment_brief.pdf
+archive/original_script.sql
+archive/original_readme.md
+archive/original_analysis_results.xlsx
+archive/original_erd.jpg
+archive/original_source_files/
+
+# Root-level original academic/source files retained locally
+*_Assignment1.docx
+Codex_Prompt.txt
+ERD of PulseFitness.drawio.pdf
+ERD of PulseFitness.jpg
+PulseFitnessScript.sql
+README_PulseFitness.md
+Summarised_AnalysisResults.xlsx
+sql_project_description/

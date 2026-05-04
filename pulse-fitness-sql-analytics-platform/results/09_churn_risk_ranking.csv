@@ -1,0 +1,589 @@
+﻿MemberID,FullName,MembershipType,LastVisitTime,LastClassAttendance,LastPTSession,RecentFailedPayments,ChurnRiskScore,RiskBand,RiskRank
+5,"Noah Davis",Basic,"2025-01-18 09:00:00",NULL,NULL,0,7,"High Risk",1
+8,"Ava Martin",Basic,NULL,"2025-01-08 07:00:00",NULL,0,7,"High Risk",2
+11,"Chloe King",Basic,NULL,NULL,NULL,0,7,"High Risk",3
+14,"Henry Walker",Basic,NULL,"2025-02-19 09:00:00",NULL,0,7,"High Risk",4
+17,"Lily Adams",Basic,NULL,"2025-04-03 07:00:00",NULL,0,7,"High Risk",5
+20,"Oscar Wright",Basic,NULL,NULL,NULL,0,7,"High Risk",6
+25,"Hannah Lewis",Basic,NULL,NULL,NULL,0,7,"High Risk",7
+12,"Ben Scott",Student,NULL,"2025-06-19 18:30:00",NULL,1,6,"High Risk",8
+38,"Pulse Member 038",Basic,"2025-06-27 18:00:00","2025-04-17 18:00:00",NULL,1,6,"High Risk",9
+39,"Pulse Member 039",Basic,"2025-06-28 18:00:00","2025-05-08 17:30:00",NULL,1,6,"High Risk",10
+296,"Pulse Member 296",Basic,"2025-06-25 18:00:00","2025-04-17 18:00:00",NULL,1,6,"High Risk",11
+297,"Pulse Member 297",Basic,"2025-06-26 18:00:00","2025-05-08 17:30:00",NULL,1,6,"High Risk",12
+339,"Pulse Member 339",Basic,"2025-06-28 18:00:00","2025-05-08 17:30:00",NULL,1,6,"High Risk",13
+469,"Pulse Member 469",Basic,"2025-06-28 18:00:00","2025-04-03 07:00:00",NULL,1,6,"High Risk",14
+597,"Pulse Member 597",Basic,"2025-06-26 18:00:00","2025-05-08 17:30:00",NULL,1,6,"High Risk",15
+598,"Pulse Member 598",Basic,"2025-06-27 18:00:00","2025-05-22 09:00:00",NULL,1,6,"High Risk",16
+6,"Emma Johnson",Student,"2025-02-12 09:00:00","2025-01-08 07:00:00",NULL,0,6,"High Risk",17
+9,"Lucas White",Student,NULL,"2025-01-08 07:00:00",NULL,0,6,"High Risk",18
+15,"Zoe Hall",Student,NULL,NULL,NULL,0,6,"High Risk",19
+18,"Daniel Hill",Student,NULL,"2025-01-08 07:00:00",NULL,0,6,"High Risk",20
+23,"Sophie Allen",Student,NULL,"2025-04-17 18:00:00",NULL,0,6,"High Risk",21
+26,"Adam Cooper",Student,NULL,"2025-01-08 07:00:00",NULL,0,6,"High Risk",22
+29,"Sarah Bell",Student,NULL,"2025-01-08 07:00:00",NULL,0,6,"High Risk",23
+81,"Pulse Member 081",Premium,"2025-06-25 18:00:00","2025-05-08 17:30:00",NULL,1,5,"Medium Risk",24
+82,"Pulse Member 082",Premium,"2025-06-26 18:00:00","2025-05-22 09:00:00",NULL,1,5,"Medium Risk",25
+124,"Pulse Member 124",Student,"2025-06-28 18:00:00","2025-05-22 09:00:00",NULL,1,5,"Medium Risk",26
+211,"Pulse Member 211",Premium,"2025-06-25 18:00:00","2025-04-03 07:00:00",NULL,1,5,"Medium Risk",27
+253,"Pulse Member 253",Student,"2025-06-27 18:00:00","2025-04-03 07:00:00",NULL,1,5,"Medium Risk",28
+254,"Pulse Member 254",Student,"2025-06-28 18:00:00","2025-04-17 18:00:00",NULL,1,5,"Medium Risk",29
+382,"Pulse Member 382",Premium,"2025-06-26 18:00:00","2025-05-22 09:00:00",NULL,1,5,"Medium Risk",30
+511,"Pulse Member 511",Premium,"2025-06-25 18:00:00","2025-04-03 07:00:00",NULL,1,5,"Medium Risk",31
+512,"Pulse Member 512",Premium,"2025-06-26 18:00:00","2025-04-17 18:00:00",NULL,1,5,"Medium Risk",32
+554,"Pulse Member 554",Student,"2025-06-28 18:00:00","2025-04-17 18:00:00",NULL,1,5,"Medium Risk",33
+13,"Grace Young",Premium,"2025-05-18 07:00:00","2025-02-05 17:30:00","2025-04-23 11:00:00",0,5,"Medium Risk",34
+19,"Ella Baker",Premium,"2025-05-19 18:00:00","2025-05-08 17:30:00","2025-03-12 13:00:00",0,5,"Medium Risk",35
+24,"Leo Mitchell",Premium,"2025-05-21 07:00:00","2025-05-08 17:30:00","2025-04-16 13:00:00",0,5,"Medium Risk",36
+30,"Tom Evans",Premium,"2025-05-23 18:00:00","2025-05-22 09:00:00","2025-06-18 13:00:00",0,5,"Medium Risk",37
+167,"Pulse Member 167",Basic,"2025-06-26 18:00:00","2025-06-05 06:30:00",NULL,1,4,"Medium Risk",38
+168,"Pulse Member 168",Basic,"2025-06-27 18:00:00","2025-06-19 18:30:00",NULL,1,4,"Medium Risk",39
+340,"Pulse Member 340",Premium,"2025-06-24 18:00:00","2025-05-22 09:00:00","2025-05-22 10:00:00",1,4,"Medium Risk",40
+426,"Pulse Member 426",Basic,"2025-06-25 18:00:00","2025-06-19 18:30:00",NULL,1,4,"Medium Risk",41
+468,"Pulse Member 468",Basic,"2025-06-27 18:00:00","2025-06-19 18:30:00",NULL,1,4,"Medium Risk",42
+555,"Pulse Member 555",Student,"2025-06-24 18:00:00","2025-05-08 17:30:00","2025-05-17 10:00:00",1,4,"Medium Risk",43
+37,"Pulse Member 037",Basic,"2025-06-26 18:00:00","2025-04-03 07:00:00",NULL,0,4,"Medium Risk",44
+46,"Pulse Member 046",Basic,"2025-06-25 18:00:00","2025-05-22 09:00:00",NULL,0,4,"Medium Risk",45
+49,"Pulse Member 049",Basic,"2025-06-28 18:00:00","2025-04-03 07:00:00",NULL,0,4,"Medium Risk",46
+56,"Pulse Member 056",Basic,"2025-06-25 18:00:00","2025-04-17 18:00:00",NULL,0,4,"Medium Risk",47
+57,"Pulse Member 057",Basic,"2025-06-26 18:00:00","2025-05-08 17:30:00",NULL,0,4,"Medium Risk",48
+58,"Pulse Member 058",Basic,"2025-06-27 18:00:00","2025-05-22 09:00:00",NULL,0,4,"Medium Risk",49
+67,"Pulse Member 067",Basic,"2025-06-26 18:00:00","2025-04-03 07:00:00",NULL,0,4,"Medium Risk",50
+68,"Pulse Member 068",Basic,"2025-06-27 18:00:00","2025-04-17 18:00:00",NULL,0,4,"Medium Risk",51
+69,"Pulse Member 069",Basic,"2025-06-28 18:00:00","2025-05-08 17:30:00",NULL,0,4,"Medium Risk",52
+76,"Pulse Member 076",Basic,"2025-06-25 18:00:00","2025-05-22 09:00:00",NULL,0,4,"Medium Risk",53
+79,"Pulse Member 079",Basic,"2025-06-28 18:00:00","2025-04-03 07:00:00",NULL,0,4,"Medium Risk",54
+86,"Pulse Member 086",Basic,"2025-06-25 18:00:00","2025-04-17 18:00:00",NULL,0,4,"Medium Risk",55
+87,"Pulse Member 087",Basic,"2025-06-26 18:00:00","2025-05-08 17:30:00",NULL,0,4,"Medium Risk",56
+88,"Pulse Member 088",Basic,"2025-06-27 18:00:00","2025-05-22 09:00:00",NULL,0,4,"Medium Risk",57
+98,"Pulse Member 098",Basic,"2025-06-27 18:00:00","2025-04-17 18:00:00",NULL,0,4,"Medium Risk",58
+99,"Pulse Member 099",Basic,"2025-06-28 18:00:00","2025-05-08 17:30:00",NULL,0,4,"Medium Risk",59
+106,"Pulse Member 106",Basic,"2025-06-25 18:00:00","2025-05-22 09:00:00",NULL,0,4,"Medium Risk",60
+109,"Pulse Member 109",Basic,"2025-06-28 18:00:00","2025-04-03 07:00:00",NULL,0,4,"Medium Risk",61
+116,"Pulse Member 116",Basic,"2025-06-25 18:00:00","2025-04-17 18:00:00",NULL,0,4,"Medium Risk",62
+117,"Pulse Member 117",Basic,"2025-06-26 18:00:00","2025-05-08 17:30:00",NULL,0,4,"Medium Risk",63
+118,"Pulse Member 118",Basic,"2025-06-27 18:00:00","2025-05-22 09:00:00",NULL,0,4,"Medium Risk",64
+127,"Pulse Member 127",Basic,"2025-06-26 18:00:00","2025-04-03 07:00:00",NULL,0,4,"Medium Risk",65
+128,"Pulse Member 128",Basic,"2025-06-27 18:00:00","2025-04-17 18:00:00",NULL,0,4,"Medium Risk",66
+129,"Pulse Member 129",Basic,"2025-06-28 18:00:00","2025-05-08 17:30:00",NULL,0,4,"Medium Risk",67
+136,"Pulse Member 136",Basic,"2025-06-25 18:00:00","2025-05-22 09:00:00",NULL,0,4,"Medium Risk",68
+139,"Pulse Member 139",Basic,"2025-06-28 18:00:00","2025-04-03 07:00:00",NULL,0,4,"Medium Risk",69
+146,"Pulse Member 146",Basic,"2025-06-25 18:00:00","2025-04-17 18:00:00",NULL,0,4,"Medium Risk",70
+147,"Pulse Member 147",Basic,"2025-06-26 18:00:00","2025-05-08 17:30:00",NULL,0,4,"Medium Risk",71
+148,"Pulse Member 148",Basic,"2025-06-27 18:00:00","2025-05-22 09:00:00",NULL,0,4,"Medium Risk",72
+157,"Pulse Member 157",Basic,"2025-06-26 18:00:00","2025-04-03 07:00:00",NULL,0,4,"Medium Risk",73
+158,"Pulse Member 158",Basic,"2025-06-27 18:00:00","2025-04-17 18:00:00",NULL,0,4,"Medium Risk",74
+159,"Pulse Member 159",Basic,"2025-06-28 18:00:00","2025-05-08 17:30:00",NULL,0,4,"Medium Risk",75
+166,"Pulse Member 166",Basic,"2025-06-25 18:00:00","2025-05-22 09:00:00",NULL,0,4,"Medium Risk",76
+169,"Pulse Member 169",Basic,"2025-06-28 18:00:00","2025-04-03 07:00:00",NULL,0,4,"Medium Risk",77
+176,"Pulse Member 176",Basic,"2025-06-25 18:00:00","2025-04-17 18:00:00",NULL,0,4,"Medium Risk",78
+177,"Pulse Member 177",Basic,"2025-06-26 18:00:00","2025-05-08 17:30:00",NULL,0,4,"Medium Risk",79
+178,"Pulse Member 178",Basic,"2025-06-27 18:00:00","2025-05-22 09:00:00",NULL,0,4,"Medium Risk",80
+187,"Pulse Member 187",Basic,"2025-06-26 18:00:00","2025-04-03 07:00:00",NULL,0,4,"Medium Risk",81
+188,"Pulse Member 188",Basic,"2025-06-27 18:00:00","2025-04-17 18:00:00",NULL,0,4,"Medium Risk",82
+189,"Pulse Member 189",Basic,"2025-06-28 18:00:00","2025-05-08 17:30:00",NULL,0,4,"Medium Risk",83
+196,"Pulse Member 196",Basic,"2025-06-25 18:00:00","2025-05-22 09:00:00",NULL,0,4,"Medium Risk",84
+199,"Pulse Member 199",Basic,"2025-06-28 18:00:00","2025-04-03 07:00:00",NULL,0,4,"Medium Risk",85
+206,"Pulse Member 206",Basic,"2025-06-25 18:00:00","2025-04-17 18:00:00",NULL,0,4,"Medium Risk",86
+207,"Pulse Member 207",Basic,"2025-06-26 18:00:00","2025-05-08 17:30:00",NULL,0,4,"Medium Risk",87
+208,"Pulse Member 208",Basic,"2025-06-27 18:00:00","2025-05-22 09:00:00",NULL,0,4,"Medium Risk",88
+217,"Pulse Member 217",Basic,"2025-06-26 18:00:00","2025-04-03 07:00:00",NULL,0,4,"Medium Risk",89
+218,"Pulse Member 218",Basic,"2025-06-27 18:00:00","2025-04-17 18:00:00",NULL,0,4,"Medium Risk",90
+219,"Pulse Member 219",Basic,"2025-06-28 18:00:00","2025-05-08 17:30:00",NULL,0,4,"Medium Risk",91
+226,"Pulse Member 226",Basic,"2025-06-25 18:00:00","2025-05-22 09:00:00",NULL,0,4,"Medium Risk",92
+229,"Pulse Member 229",Basic,"2025-06-28 18:00:00","2025-04-03 07:00:00",NULL,0,4,"Medium Risk",93
+236,"Pulse Member 236",Basic,"2025-06-25 18:00:00","2025-04-17 18:00:00",NULL,0,4,"Medium Risk",94
+237,"Pulse Member 237",Basic,"2025-06-26 18:00:00","2025-05-08 17:30:00",NULL,0,4,"Medium Risk",95
+238,"Pulse Member 238",Basic,"2025-06-27 18:00:00","2025-05-22 09:00:00",NULL,0,4,"Medium Risk",96
+247,"Pulse Member 247",Basic,"2025-06-26 18:00:00","2025-04-03 07:00:00",NULL,0,4,"Medium Risk",97
+248,"Pulse Member 248",Basic,"2025-06-27 18:00:00","2025-04-17 18:00:00",NULL,0,4,"Medium Risk",98
+249,"Pulse Member 249",Basic,"2025-06-28 18:00:00","2025-05-08 17:30:00",NULL,0,4,"Medium Risk",99
+256,"Pulse Member 256",Basic,"2025-06-25 18:00:00","2025-05-22 09:00:00",NULL,0,4,"Medium Risk",100
+259,"Pulse Member 259",Basic,"2025-06-28 18:00:00","2025-04-03 07:00:00",NULL,0,4,"Medium Risk",101
+266,"Pulse Member 266",Basic,"2025-06-25 18:00:00","2025-04-17 18:00:00",NULL,0,4,"Medium Risk",102
+267,"Pulse Member 267",Basic,"2025-06-26 18:00:00","2025-05-08 17:30:00",NULL,0,4,"Medium Risk",103
+268,"Pulse Member 268",Basic,"2025-06-27 18:00:00","2025-05-22 09:00:00",NULL,0,4,"Medium Risk",104
+277,"Pulse Member 277",Basic,"2025-06-26 18:00:00","2025-04-03 07:00:00",NULL,0,4,"Medium Risk",105
+278,"Pulse Member 278",Basic,"2025-06-27 18:00:00","2025-04-17 18:00:00",NULL,0,4,"Medium Risk",106
+279,"Pulse Member 279",Basic,"2025-06-28 18:00:00","2025-05-08 17:30:00",NULL,0,4,"Medium Risk",107
+286,"Pulse Member 286",Basic,"2025-06-25 18:00:00","2025-05-22 09:00:00",NULL,0,4,"Medium Risk",108
+289,"Pulse Member 289",Basic,"2025-06-28 18:00:00","2025-04-03 07:00:00",NULL,0,4,"Medium Risk",109
+307,"Pulse Member 307",Basic,"2025-06-26 18:00:00","2025-04-03 07:00:00",NULL,0,4,"Medium Risk",110
+308,"Pulse Member 308",Basic,"2025-06-27 18:00:00","2025-04-17 18:00:00",NULL,0,4,"Medium Risk",111
+309,"Pulse Member 309",Basic,"2025-06-28 18:00:00","2025-05-08 17:30:00",NULL,0,4,"Medium Risk",112
+316,"Pulse Member 316",Basic,"2025-06-25 18:00:00","2025-05-22 09:00:00",NULL,0,4,"Medium Risk",113
+319,"Pulse Member 319",Basic,"2025-06-28 18:00:00","2025-04-03 07:00:00",NULL,0,4,"Medium Risk",114
+326,"Pulse Member 326",Basic,"2025-06-25 18:00:00","2025-04-17 18:00:00",NULL,0,4,"Medium Risk",115
+327,"Pulse Member 327",Basic,"2025-06-26 18:00:00","2025-05-08 17:30:00",NULL,0,4,"Medium Risk",116
+328,"Pulse Member 328",Basic,"2025-06-27 18:00:00","2025-05-22 09:00:00",NULL,0,4,"Medium Risk",117
+337,"Pulse Member 337",Basic,"2025-06-26 18:00:00","2025-04-03 07:00:00",NULL,0,4,"Medium Risk",118
+338,"Pulse Member 338",Basic,"2025-06-27 18:00:00","2025-04-17 18:00:00",NULL,0,4,"Medium Risk",119
+346,"Pulse Member 346",Basic,"2025-06-25 18:00:00","2025-05-22 09:00:00",NULL,0,4,"Medium Risk",120
+349,"Pulse Member 349",Basic,"2025-06-28 18:00:00","2025-04-03 07:00:00",NULL,0,4,"Medium Risk",121
+356,"Pulse Member 356",Basic,"2025-06-25 18:00:00","2025-04-17 18:00:00",NULL,0,4,"Medium Risk",122
+357,"Pulse Member 357",Basic,"2025-06-26 18:00:00","2025-05-08 17:30:00",NULL,0,4,"Medium Risk",123
+358,"Pulse Member 358",Basic,"2025-06-27 18:00:00","2025-05-22 09:00:00",NULL,0,4,"Medium Risk",124
+367,"Pulse Member 367",Basic,"2025-06-26 18:00:00","2025-04-03 07:00:00",NULL,0,4,"Medium Risk",125
+368,"Pulse Member 368",Basic,"2025-06-27 18:00:00","2025-04-17 18:00:00",NULL,0,4,"Medium Risk",126
+369,"Pulse Member 369",Basic,"2025-06-28 18:00:00","2025-05-08 17:30:00",NULL,0,4,"Medium Risk",127
+376,"Pulse Member 376",Basic,"2025-06-25 18:00:00","2025-05-22 09:00:00",NULL,0,4,"Medium Risk",128
+379,"Pulse Member 379",Basic,"2025-06-28 18:00:00","2025-04-03 07:00:00",NULL,0,4,"Medium Risk",129
+386,"Pulse Member 386",Basic,"2025-06-25 18:00:00","2025-04-17 18:00:00",NULL,0,4,"Medium Risk",130
+387,"Pulse Member 387",Basic,"2025-06-26 18:00:00","2025-05-08 17:30:00",NULL,0,4,"Medium Risk",131
+397,"Pulse Member 397",Basic,"2025-06-26 18:00:00","2025-04-03 07:00:00",NULL,0,4,"Medium Risk",132
+398,"Pulse Member 398",Basic,"2025-06-27 18:00:00","2025-04-17 18:00:00",NULL,0,4,"Medium Risk",133
+399,"Pulse Member 399",Basic,"2025-06-28 18:00:00","2025-05-08 17:30:00",NULL,0,4,"Medium Risk",134
+406,"Pulse Member 406",Basic,"2025-06-25 18:00:00","2025-05-22 09:00:00",NULL,0,4,"Medium Risk",135
+409,"Pulse Member 409",Basic,"2025-06-28 18:00:00","2025-04-03 07:00:00",NULL,0,4,"Medium Risk",136
+416,"Pulse Member 416",Basic,"2025-06-25 18:00:00","2025-04-17 18:00:00",NULL,0,4,"Medium Risk",137
+417,"Pulse Member 417",Basic,"2025-06-26 18:00:00","2025-05-08 17:30:00",NULL,0,4,"Medium Risk",138
+418,"Pulse Member 418",Basic,"2025-06-27 18:00:00","2025-05-22 09:00:00",NULL,0,4,"Medium Risk",139
+427,"Pulse Member 427",Basic,"2025-06-26 18:00:00","2025-04-03 07:00:00",NULL,0,4,"Medium Risk",140
+428,"Pulse Member 428",Basic,"2025-06-27 18:00:00","2025-04-17 18:00:00",NULL,0,4,"Medium Risk",141
+429,"Pulse Member 429",Basic,"2025-06-28 18:00:00","2025-05-08 17:30:00",NULL,0,4,"Medium Risk",142
+436,"Pulse Member 436",Basic,"2025-06-25 18:00:00","2025-05-22 09:00:00",NULL,0,4,"Medium Risk",143
+439,"Pulse Member 439",Basic,"2025-06-28 18:00:00","2025-04-03 07:00:00",NULL,0,4,"Medium Risk",144
+446,"Pulse Member 446",Basic,"2025-06-25 18:00:00","2025-04-17 18:00:00",NULL,0,4,"Medium Risk",145
+448,"Pulse Member 448",Basic,"2025-06-27 18:00:00","2025-05-22 09:00:00",NULL,0,4,"Medium Risk",146
+457,"Pulse Member 457",Basic,"2025-06-26 18:00:00","2025-04-03 07:00:00",NULL,0,4,"Medium Risk",147
+458,"Pulse Member 458",Basic,"2025-06-27 18:00:00","2025-04-17 18:00:00",NULL,0,4,"Medium Risk",148
+459,"Pulse Member 459",Basic,"2025-06-28 18:00:00","2025-05-08 17:30:00",NULL,0,4,"Medium Risk",149
+466,"Pulse Member 466",Basic,"2025-06-25 18:00:00","2025-05-22 09:00:00",NULL,0,4,"Medium Risk",150
+476,"Pulse Member 476",Basic,"2025-06-25 18:00:00","2025-04-17 18:00:00",NULL,0,4,"Medium Risk",151
+477,"Pulse Member 477",Basic,"2025-06-26 18:00:00","2025-05-08 17:30:00",NULL,0,4,"Medium Risk",152
+478,"Pulse Member 478",Basic,"2025-06-27 18:00:00","2025-05-22 09:00:00",NULL,0,4,"Medium Risk",153
+487,"Pulse Member 487",Basic,"2025-06-26 18:00:00","2025-04-03 07:00:00",NULL,0,4,"Medium Risk",154
+488,"Pulse Member 488",Basic,"2025-06-27 18:00:00","2025-04-17 18:00:00",NULL,0,4,"Medium Risk",155
+489,"Pulse Member 489",Basic,"2025-06-28 18:00:00","2025-05-08 17:30:00",NULL,0,4,"Medium Risk",156
+496,"Pulse Member 496",Basic,"2025-06-25 18:00:00","2025-05-22 09:00:00",NULL,0,4,"Medium Risk",157
+498,"Pulse Member 498",Basic,"2025-06-27 18:00:00","2025-03-20 18:30:00",NULL,0,4,"Medium Risk",158
+499,"Pulse Member 499",Basic,"2025-06-28 18:00:00","2025-04-03 07:00:00",NULL,0,4,"Medium Risk",159
+506,"Pulse Member 506",Basic,"2025-06-25 18:00:00","2025-04-17 18:00:00",NULL,0,4,"Medium Risk",160
+507,"Pulse Member 507",Basic,"2025-06-26 18:00:00","2025-05-08 17:30:00",NULL,0,4,"Medium Risk",161
+508,"Pulse Member 508",Basic,"2025-06-27 18:00:00","2025-05-22 09:00:00",NULL,0,4,"Medium Risk",162
+517,"Pulse Member 517",Basic,"2025-06-26 18:00:00","2025-04-03 07:00:00",NULL,0,4,"Medium Risk",163
+518,"Pulse Member 518",Basic,"2025-06-27 18:00:00","2025-04-17 18:00:00",NULL,0,4,"Medium Risk",164
+519,"Pulse Member 519",Basic,"2025-06-28 18:00:00","2025-05-08 17:30:00",NULL,0,4,"Medium Risk",165
+526,"Pulse Member 526",Basic,"2025-06-25 18:00:00","2025-05-22 09:00:00",NULL,0,4,"Medium Risk",166
+529,"Pulse Member 529",Basic,"2025-06-28 18:00:00","2025-04-03 07:00:00",NULL,0,4,"Medium Risk",167
+536,"Pulse Member 536",Basic,"2025-06-25 18:00:00","2025-04-17 18:00:00",NULL,0,4,"Medium Risk",168
+537,"Pulse Member 537",Basic,"2025-06-26 18:00:00","2025-05-08 17:30:00",NULL,0,4,"Medium Risk",169
+538,"Pulse Member 538",Basic,"2025-06-27 18:00:00","2025-05-22 09:00:00",NULL,0,4,"Medium Risk",170
+547,"Pulse Member 547",Basic,"2025-06-26 18:00:00","2025-04-03 07:00:00",NULL,0,4,"Medium Risk",171
+548,"Pulse Member 548",Basic,"2025-06-27 18:00:00","2025-04-17 18:00:00",NULL,0,4,"Medium Risk",172
+549,"Pulse Member 549",Basic,"2025-06-28 18:00:00","2025-05-08 17:30:00",NULL,0,4,"Medium Risk",173
+556,"Pulse Member 556",Basic,"2025-06-25 18:00:00","2025-05-22 09:00:00",NULL,0,4,"Medium Risk",174
+559,"Pulse Member 559",Basic,"2025-06-28 18:00:00","2025-04-03 07:00:00",NULL,0,4,"Medium Risk",175
+566,"Pulse Member 566",Basic,"2025-06-25 18:00:00","2025-04-17 18:00:00",NULL,0,4,"Medium Risk",176
+567,"Pulse Member 567",Basic,"2025-06-26 18:00:00","2025-05-08 17:30:00",NULL,0,4,"Medium Risk",177
+568,"Pulse Member 568",Basic,"2025-06-27 18:00:00","2025-05-22 09:00:00",NULL,0,4,"Medium Risk",178
+577,"Pulse Member 577",Basic,"2025-06-26 18:00:00","2025-04-03 07:00:00",NULL,0,4,"Medium Risk",179
+578,"Pulse Member 578",Basic,"2025-06-27 18:00:00","2025-04-17 18:00:00",NULL,0,4,"Medium Risk",180
+579,"Pulse Member 579",Basic,"2025-06-28 18:00:00","2025-05-08 17:30:00",NULL,0,4,"Medium Risk",181
+586,"Pulse Member 586",Basic,"2025-06-25 18:00:00","2025-05-22 09:00:00",NULL,0,4,"Medium Risk",182
+589,"Pulse Member 589",Basic,"2025-06-28 18:00:00","2025-04-03 07:00:00",NULL,0,4,"Medium Risk",183
+383,"Pulse Member 383",Student,"2025-06-27 18:00:00","2025-06-05 06:30:00",NULL,1,3,"Medium Risk",184
+31,"Pulse Member 031",Premium,"2025-06-25 18:00:00","2025-04-03 07:00:00",NULL,0,3,"Medium Risk",185
+32,"Pulse Member 032",Premium,"2025-06-26 18:00:00","2025-04-17 18:00:00",NULL,0,3,"Medium Risk",186
+33,"Pulse Member 033",Student,"2025-06-27 18:00:00","2025-05-08 17:30:00",NULL,0,3,"Medium Risk",187
+34,"Pulse Member 034",Student,"2025-06-28 18:00:00","2025-05-22 09:00:00",NULL,0,3,"Medium Risk",188
+43,"Pulse Member 043",Student,"2025-06-27 18:00:00","2025-04-03 07:00:00",NULL,0,3,"Medium Risk",189
+44,"Pulse Member 044",Student,"2025-06-28 18:00:00","2025-04-17 18:00:00",NULL,0,3,"Medium Risk",190
+51,"Pulse Member 051",Premium,"2025-06-25 18:00:00","2025-05-08 17:30:00",NULL,0,3,"Medium Risk",191
+52,"Pulse Member 052",Premium,"2025-06-26 18:00:00","2025-05-22 09:00:00",NULL,0,3,"Medium Risk",192
+61,"Pulse Member 061",Premium,"2025-06-25 18:00:00","2025-04-03 07:00:00",NULL,0,3,"Medium Risk",193
+62,"Pulse Member 062",Premium,"2025-06-26 18:00:00","2025-04-17 18:00:00",NULL,0,3,"Medium Risk",194
+63,"Pulse Member 063",Student,"2025-06-27 18:00:00","2025-05-08 17:30:00",NULL,0,3,"Medium Risk",195
+64,"Pulse Member 064",Student,"2025-06-28 18:00:00","2025-05-22 09:00:00",NULL,0,3,"Medium Risk",196
+73,"Pulse Member 073",Student,"2025-06-27 18:00:00","2025-04-03 07:00:00",NULL,0,3,"Medium Risk",197
+74,"Pulse Member 074",Student,"2025-06-28 18:00:00","2025-04-17 18:00:00",NULL,0,3,"Medium Risk",198
+91,"Pulse Member 091",Premium,"2025-06-25 18:00:00","2025-04-03 07:00:00",NULL,0,3,"Medium Risk",199
+92,"Pulse Member 092",Premium,"2025-06-26 18:00:00","2025-04-17 18:00:00",NULL,0,3,"Medium Risk",200
+93,"Pulse Member 093",Student,"2025-06-27 18:00:00","2025-05-08 17:30:00",NULL,0,3,"Medium Risk",201
+94,"Pulse Member 094",Student,"2025-06-28 18:00:00","2025-05-22 09:00:00",NULL,0,3,"Medium Risk",202
+103,"Pulse Member 103",Student,"2025-06-27 18:00:00","2025-04-03 07:00:00",NULL,0,3,"Medium Risk",203
+104,"Pulse Member 104",Student,"2025-06-28 18:00:00","2025-04-17 18:00:00",NULL,0,3,"Medium Risk",204
+111,"Pulse Member 111",Premium,"2025-06-25 18:00:00","2025-05-08 17:30:00",NULL,0,3,"Medium Risk",205
+112,"Pulse Member 112",Premium,"2025-06-26 18:00:00","2025-05-22 09:00:00",NULL,0,3,"Medium Risk",206
+121,"Pulse Member 121",Premium,"2025-06-25 18:00:00","2025-04-03 07:00:00",NULL,0,3,"Medium Risk",207
+122,"Pulse Member 122",Premium,"2025-06-26 18:00:00","2025-04-17 18:00:00",NULL,0,3,"Medium Risk",208
+123,"Pulse Member 123",Student,"2025-06-27 18:00:00","2025-05-08 17:30:00",NULL,0,3,"Medium Risk",209
+133,"Pulse Member 133",Student,"2025-06-27 18:00:00","2025-04-03 07:00:00",NULL,0,3,"Medium Risk",210
+134,"Pulse Member 134",Student,"2025-06-28 18:00:00","2025-04-17 18:00:00",NULL,0,3,"Medium Risk",211
+141,"Pulse Member 141",Premium,"2025-06-25 18:00:00","2025-05-08 17:30:00",NULL,0,3,"Medium Risk",212
+142,"Pulse Member 142",Premium,"2025-06-26 18:00:00","2025-05-22 09:00:00",NULL,0,3,"Medium Risk",213
+151,"Pulse Member 151",Premium,"2025-06-25 18:00:00","2025-04-03 07:00:00",NULL,0,3,"Medium Risk",214
+152,"Pulse Member 152",Premium,"2025-06-26 18:00:00","2025-04-17 18:00:00",NULL,0,3,"Medium Risk",215
+153,"Pulse Member 153",Student,"2025-06-27 18:00:00","2025-05-08 17:30:00",NULL,0,3,"Medium Risk",216
+154,"Pulse Member 154",Student,"2025-06-28 18:00:00","2025-05-22 09:00:00",NULL,0,3,"Medium Risk",217
+163,"Pulse Member 163",Student,"2025-06-27 18:00:00","2025-04-03 07:00:00",NULL,0,3,"Medium Risk",218
+164,"Pulse Member 164",Student,"2025-06-28 18:00:00","2025-04-17 18:00:00",NULL,0,3,"Medium Risk",219
+171,"Pulse Member 171",Premium,"2025-06-25 18:00:00","2025-05-08 17:30:00",NULL,0,3,"Medium Risk",220
+172,"Pulse Member 172",Premium,"2025-06-26 18:00:00","2025-05-22 09:00:00",NULL,0,3,"Medium Risk",221
+181,"Pulse Member 181",Premium,"2025-06-25 18:00:00","2025-04-03 07:00:00",NULL,0,3,"Medium Risk",222
+182,"Pulse Member 182",Premium,"2025-06-26 18:00:00","2025-04-17 18:00:00",NULL,0,3,"Medium Risk",223
+183,"Pulse Member 183",Student,"2025-06-27 18:00:00","2025-05-08 17:30:00",NULL,0,3,"Medium Risk",224
+184,"Pulse Member 184",Student,"2025-06-28 18:00:00","2025-05-22 09:00:00",NULL,0,3,"Medium Risk",225
+193,"Pulse Member 193",Student,"2025-06-27 18:00:00","2025-04-03 07:00:00",NULL,0,3,"Medium Risk",226
+201,"Pulse Member 201",Premium,"2025-06-25 18:00:00","2025-05-08 17:30:00",NULL,0,3,"Medium Risk",227
+202,"Pulse Member 202",Premium,"2025-06-26 18:00:00","2025-05-22 09:00:00",NULL,0,3,"Medium Risk",228
+212,"Pulse Member 212",Premium,"2025-06-26 18:00:00","2025-04-17 18:00:00",NULL,0,3,"Medium Risk",229
+213,"Pulse Member 213",Student,"2025-06-27 18:00:00","2025-05-08 17:30:00",NULL,0,3,"Medium Risk",230
+214,"Pulse Member 214",Student,"2025-06-28 18:00:00","2025-05-22 09:00:00",NULL,0,3,"Medium Risk",231
+223,"Pulse Member 223",Student,"2025-06-27 18:00:00","2025-04-03 07:00:00",NULL,0,3,"Medium Risk",232
+224,"Pulse Member 224",Student,"2025-06-28 18:00:00","2025-04-17 18:00:00",NULL,0,3,"Medium Risk",233
+231,"Pulse Member 231",Premium,"2025-06-25 18:00:00","2025-05-08 17:30:00",NULL,0,3,"Medium Risk",234
+232,"Pulse Member 232",Premium,"2025-06-26 18:00:00","2025-05-22 09:00:00",NULL,0,3,"Medium Risk",235
+241,"Pulse Member 241",Premium,"2025-06-25 18:00:00","2025-04-03 07:00:00",NULL,0,3,"Medium Risk",236
+242,"Pulse Member 242",Premium,"2025-06-26 18:00:00","2025-04-17 18:00:00",NULL,0,3,"Medium Risk",237
+243,"Pulse Member 243",Student,"2025-06-27 18:00:00","2025-05-08 17:30:00",NULL,0,3,"Medium Risk",238
+244,"Pulse Member 244",Student,"2025-06-28 18:00:00","2025-05-22 09:00:00",NULL,0,3,"Medium Risk",239
+261,"Pulse Member 261",Premium,"2025-06-25 18:00:00","2025-05-08 17:30:00",NULL,0,3,"Medium Risk",240
+262,"Pulse Member 262",Premium,"2025-06-26 18:00:00","2025-05-22 09:00:00",NULL,0,3,"Medium Risk",241
+271,"Pulse Member 271",Premium,"2025-06-25 18:00:00","2025-04-03 07:00:00",NULL,0,3,"Medium Risk",242
+272,"Pulse Member 272",Premium,"2025-06-26 18:00:00","2025-04-17 18:00:00",NULL,0,3,"Medium Risk",243
+273,"Pulse Member 273",Student,"2025-06-27 18:00:00","2025-05-08 17:30:00",NULL,0,3,"Medium Risk",244
+274,"Pulse Member 274",Student,"2025-06-28 18:00:00","2025-05-22 09:00:00",NULL,0,3,"Medium Risk",245
+283,"Pulse Member 283",Student,"2025-06-27 18:00:00","2025-04-03 07:00:00",NULL,0,3,"Medium Risk",246
+284,"Pulse Member 284",Student,"2025-06-28 18:00:00","2025-04-17 18:00:00",NULL,0,3,"Medium Risk",247
+292,"Pulse Member 292",Premium,"2025-06-26 18:00:00","2025-05-22 09:00:00",NULL,0,3,"Medium Risk",248
+301,"Pulse Member 301",Premium,"2025-06-25 18:00:00","2025-04-03 07:00:00",NULL,0,3,"Medium Risk",249
+302,"Pulse Member 302",Premium,"2025-06-26 18:00:00","2025-04-17 18:00:00",NULL,0,3,"Medium Risk",250
+303,"Pulse Member 303",Student,"2025-06-27 18:00:00","2025-05-08 17:30:00",NULL,0,3,"Medium Risk",251
+304,"Pulse Member 304",Student,"2025-06-28 18:00:00","2025-05-22 09:00:00",NULL,0,3,"Medium Risk",252
+313,"Pulse Member 313",Student,"2025-06-27 18:00:00","2025-04-03 07:00:00",NULL,0,3,"Medium Risk",253
+314,"Pulse Member 314",Student,"2025-06-28 18:00:00","2025-04-17 18:00:00",NULL,0,3,"Medium Risk",254
+321,"Pulse Member 321",Premium,"2025-06-25 18:00:00","2025-05-08 17:30:00",NULL,0,3,"Medium Risk",255
+322,"Pulse Member 322",Premium,"2025-06-26 18:00:00","2025-05-22 09:00:00",NULL,0,3,"Medium Risk",256
+331,"Pulse Member 331",Premium,"2025-06-25 18:00:00","2025-04-03 07:00:00",NULL,0,3,"Medium Risk",257
+332,"Pulse Member 332",Premium,"2025-06-26 18:00:00","2025-04-17 18:00:00",NULL,0,3,"Medium Risk",258
+333,"Pulse Member 333",Student,"2025-06-27 18:00:00","2025-05-08 17:30:00",NULL,0,3,"Medium Risk",259
+334,"Pulse Member 334",Student,"2025-06-28 18:00:00","2025-05-22 09:00:00",NULL,0,3,"Medium Risk",260
+343,"Pulse Member 343",Student,"2025-06-27 18:00:00","2025-04-03 07:00:00",NULL,0,3,"Medium Risk",261
+344,"Pulse Member 344",Student,"2025-06-28 18:00:00","2025-04-17 18:00:00",NULL,0,3,"Medium Risk",262
+351,"Pulse Member 351",Premium,"2025-06-25 18:00:00","2025-05-08 17:30:00",NULL,0,3,"Medium Risk",263
+352,"Pulse Member 352",Premium,"2025-06-26 18:00:00","2025-05-22 09:00:00",NULL,0,3,"Medium Risk",264
+361,"Pulse Member 361",Premium,"2025-06-25 18:00:00","2025-04-03 07:00:00",NULL,0,3,"Medium Risk",265
+362,"Pulse Member 362",Premium,"2025-06-26 18:00:00","2025-04-17 18:00:00",NULL,0,3,"Medium Risk",266
+363,"Pulse Member 363",Student,"2025-06-27 18:00:00","2025-05-08 17:30:00",NULL,0,3,"Medium Risk",267
+364,"Pulse Member 364",Student,"2025-06-28 18:00:00","2025-05-22 09:00:00",NULL,0,3,"Medium Risk",268
+373,"Pulse Member 373",Student,"2025-06-27 18:00:00","2025-04-03 07:00:00",NULL,0,3,"Medium Risk",269
+374,"Pulse Member 374",Student,"2025-06-28 18:00:00","2025-04-17 18:00:00",NULL,0,3,"Medium Risk",270
+381,"Pulse Member 381",Premium,"2025-06-25 18:00:00","2025-05-08 17:30:00",NULL,0,3,"Medium Risk",271
+391,"Pulse Member 391",Premium,"2025-06-25 18:00:00","2025-04-03 07:00:00",NULL,0,3,"Medium Risk",272
+392,"Pulse Member 392",Premium,"2025-06-26 18:00:00","2025-04-17 18:00:00",NULL,0,3,"Medium Risk",273
+393,"Pulse Member 393",Student,"2025-06-27 18:00:00","2025-05-08 17:30:00",NULL,0,3,"Medium Risk",274
+394,"Pulse Member 394",Student,"2025-06-28 18:00:00","2025-05-22 09:00:00",NULL,0,3,"Medium Risk",275
+403,"Pulse Member 403",Student,"2025-06-27 18:00:00","2025-04-03 07:00:00",NULL,0,3,"Medium Risk",276
+404,"Pulse Member 404",Student,"2025-06-28 18:00:00","2025-04-17 18:00:00",NULL,0,3,"Medium Risk",277
+411,"Pulse Member 411",Premium,"2025-06-25 18:00:00","2025-05-08 17:30:00",NULL,0,3,"Medium Risk",278
+412,"Pulse Member 412",Premium,"2025-06-26 18:00:00","2025-05-22 09:00:00",NULL,0,3,"Medium Risk",279
+421,"Pulse Member 421",Premium,"2025-06-25 18:00:00","2025-04-03 07:00:00",NULL,0,3,"Medium Risk",280
+422,"Pulse Member 422",Premium,"2025-06-26 18:00:00","2025-04-17 18:00:00",NULL,0,3,"Medium Risk",281
+423,"Pulse Member 423",Student,"2025-06-27 18:00:00","2025-05-08 17:30:00",NULL,0,3,"Medium Risk",282
+424,"Pulse Member 424",Student,"2025-06-28 18:00:00","2025-05-22 09:00:00",NULL,0,3,"Medium Risk",283
+433,"Pulse Member 433",Student,"2025-06-27 18:00:00","2025-04-03 07:00:00",NULL,0,3,"Medium Risk",284
+434,"Pulse Member 434",Student,"2025-06-28 18:00:00","2025-04-17 18:00:00",NULL,0,3,"Medium Risk",285
+441,"Pulse Member 441",Premium,"2025-06-25 18:00:00","2025-05-08 17:30:00",NULL,0,3,"Medium Risk",286
+442,"Pulse Member 442",Premium,"2025-06-26 18:00:00","2025-05-22 09:00:00",NULL,0,3,"Medium Risk",287
+451,"Pulse Member 451",Premium,"2025-06-25 18:00:00","2025-04-03 07:00:00",NULL,0,3,"Medium Risk",288
+452,"Pulse Member 452",Premium,"2025-06-26 18:00:00","2025-04-17 18:00:00",NULL,0,3,"Medium Risk",289
+453,"Pulse Member 453",Student,"2025-06-27 18:00:00","2025-05-08 17:30:00",NULL,0,3,"Medium Risk",290
+454,"Pulse Member 454",Student,"2025-06-28 18:00:00","2025-05-22 09:00:00",NULL,0,3,"Medium Risk",291
+463,"Pulse Member 463",Student,"2025-06-27 18:00:00","2025-04-03 07:00:00",NULL,0,3,"Medium Risk",292
+464,"Pulse Member 464",Student,"2025-06-28 18:00:00","2025-04-17 18:00:00",NULL,0,3,"Medium Risk",293
+471,"Pulse Member 471",Premium,"2025-06-25 18:00:00","2025-05-08 17:30:00",NULL,0,3,"Medium Risk",294
+472,"Pulse Member 472",Premium,"2025-06-26 18:00:00","2025-05-22 09:00:00",NULL,0,3,"Medium Risk",295
+481,"Pulse Member 481",Premium,"2025-06-25 18:00:00","2025-04-03 07:00:00",NULL,0,3,"Medium Risk",296
+482,"Pulse Member 482",Premium,"2025-06-26 18:00:00","2025-04-17 18:00:00",NULL,0,3,"Medium Risk",297
+483,"Pulse Member 483",Student,"2025-06-27 18:00:00","2025-05-08 17:30:00",NULL,0,3,"Medium Risk",298
+484,"Pulse Member 484",Student,"2025-06-28 18:00:00","2025-05-22 09:00:00",NULL,0,3,"Medium Risk",299
+493,"Pulse Member 493",Student,"2025-06-27 18:00:00","2025-04-03 07:00:00",NULL,0,3,"Medium Risk",300
+494,"Pulse Member 494",Student,"2025-06-28 18:00:00","2025-04-17 18:00:00",NULL,0,3,"Medium Risk",301
+501,"Pulse Member 501",Premium,"2025-06-25 18:00:00","2025-05-08 17:30:00",NULL,0,3,"Medium Risk",302
+502,"Pulse Member 502",Premium,"2025-06-26 18:00:00","2025-05-22 09:00:00",NULL,0,3,"Medium Risk",303
+513,"Pulse Member 513",Student,"2025-06-27 18:00:00","2025-05-08 17:30:00",NULL,0,3,"Medium Risk",304
+514,"Pulse Member 514",Student,"2025-06-28 18:00:00","2025-05-22 09:00:00",NULL,0,3,"Medium Risk",305
+523,"Pulse Member 523",Student,"2025-06-27 18:00:00","2025-04-03 07:00:00",NULL,0,3,"Medium Risk",306
+524,"Pulse Member 524",Student,"2025-06-28 18:00:00","2025-04-17 18:00:00",NULL,0,3,"Medium Risk",307
+531,"Pulse Member 531",Premium,"2025-06-25 18:00:00","2025-05-08 17:30:00",NULL,0,3,"Medium Risk",308
+532,"Pulse Member 532",Premium,"2025-06-26 18:00:00","2025-05-22 09:00:00",NULL,0,3,"Medium Risk",309
+541,"Pulse Member 541",Premium,"2025-06-25 18:00:00","2025-04-03 07:00:00",NULL,0,3,"Medium Risk",310
+542,"Pulse Member 542",Premium,"2025-06-26 18:00:00","2025-04-17 18:00:00",NULL,0,3,"Medium Risk",311
+543,"Pulse Member 543",Student,"2025-06-27 18:00:00","2025-05-08 17:30:00",NULL,0,3,"Medium Risk",312
+544,"Pulse Member 544",Student,"2025-06-28 18:00:00","2025-05-22 09:00:00",NULL,0,3,"Medium Risk",313
+553,"Pulse Member 553",Student,"2025-06-27 18:00:00","2025-04-03 07:00:00",NULL,0,3,"Medium Risk",314
+561,"Pulse Member 561",Premium,"2025-06-25 18:00:00","2025-05-08 17:30:00",NULL,0,3,"Medium Risk",315
+562,"Pulse Member 562",Premium,"2025-06-26 18:00:00","2025-05-22 09:00:00",NULL,0,3,"Medium Risk",316
+571,"Pulse Member 571",Premium,"2025-06-25 18:00:00","2025-04-03 07:00:00",NULL,0,3,"Medium Risk",317
+572,"Pulse Member 572",Premium,"2025-06-26 18:00:00","2025-04-17 18:00:00",NULL,0,3,"Medium Risk",318
+573,"Pulse Member 573",Student,"2025-06-27 18:00:00","2025-05-08 17:30:00",NULL,0,3,"Medium Risk",319
+574,"Pulse Member 574",Student,"2025-06-28 18:00:00","2025-05-22 09:00:00",NULL,0,3,"Medium Risk",320
+581,"Pulse Member 581",Premium,"2025-06-25 18:00:00","2025-03-06 06:30:00",NULL,0,3,"Medium Risk",321
+583,"Pulse Member 583",Student,"2025-06-27 18:00:00","2025-04-03 07:00:00",NULL,0,3,"Medium Risk",322
+584,"Pulse Member 584",Student,"2025-06-28 18:00:00","2025-04-17 18:00:00",NULL,0,3,"Medium Risk",323
+591,"Pulse Member 591",Premium,"2025-06-25 18:00:00","2025-05-08 17:30:00",NULL,0,3,"Medium Risk",324
+592,"Pulse Member 592",Premium,"2025-06-26 18:00:00","2025-05-22 09:00:00",NULL,0,3,"Medium Risk",325
+125,"Pulse Member 125",Student,"2025-06-24 18:00:00","2025-06-05 06:30:00","2025-05-27 10:00:00",1,2,"Low Risk",326
+210,"Pulse Member 210",Premium,"2025-06-24 18:00:00","2025-06-19 18:30:00","2025-05-22 10:00:00",1,2,"Low Risk",327
+425,"Pulse Member 425",Student,"2025-06-24 18:00:00","2025-06-05 06:30:00","2025-05-17 10:00:00",1,2,"Low Risk",328
+7,"Ethan Lee",Premium,"2025-06-14 07:00:00","2025-05-08 17:30:00","2025-02-26 11:00:00",0,2,"Low Risk",329
+10,"Mia Harris",Premium,"2025-06-16 18:00:00","2025-05-22 09:00:00","2025-03-26 11:00:00",0,2,"Low Risk",330
+36,"Pulse Member 036",Basic,"2025-06-25 18:00:00","2025-06-19 18:30:00",NULL,0,2,"Low Risk",331
+40,"Pulse Member 040",Premium,"2025-06-24 18:00:00","2025-05-22 09:00:00","2025-06-01 10:00:00",0,2,"Low Risk",332
+45,"Pulse Member 045",Student,"2025-06-24 18:00:00","2025-05-08 17:30:00","2025-02-06 10:00:00",0,2,"Low Risk",333
+47,"Pulse Member 047",Basic,"2025-06-26 18:00:00","2025-06-05 06:30:00",NULL,0,2,"Low Risk",334
+48,"Pulse Member 048",Basic,"2025-06-27 18:00:00","2025-06-19 18:30:00",NULL,0,2,"Low Risk",335
+50,"Pulse Member 050",Premium,"2025-06-24 18:00:00","2025-04-17 18:00:00","2025-02-21 10:00:00",0,2,"Low Risk",336
+55,"Pulse Member 055",Student,"2025-06-24 18:00:00","2025-04-03 07:00:00","2025-03-08 10:00:00",0,2,"Low Risk",337
+59,"Pulse Member 059",Basic,"2025-06-28 18:00:00","2025-06-05 06:30:00",NULL,0,2,"Low Risk",338
+66,"Pulse Member 066",Basic,"2025-06-25 18:00:00","2025-06-19 18:30:00",NULL,0,2,"Low Risk",339
+70,"Pulse Member 070",Premium,"2025-06-24 18:00:00","2025-05-22 09:00:00","2025-04-22 10:00:00",0,2,"Low Risk",340
+75,"Pulse Member 075",Student,"2025-06-24 18:00:00","2025-05-08 17:30:00","2025-05-07 10:00:00",0,2,"Low Risk",341
+77,"Pulse Member 077",Basic,"2025-06-26 18:00:00","2025-06-05 06:30:00",NULL,0,2,"Low Risk",342
+78,"Pulse Member 078",Basic,"2025-06-27 18:00:00","2025-06-19 18:30:00",NULL,0,2,"Low Risk",343
+80,"Pulse Member 080",Premium,"2025-06-24 18:00:00","2025-04-17 18:00:00","2025-05-22 10:00:00",0,2,"Low Risk",344
+85,"Pulse Member 085",Student,"2025-06-24 18:00:00","2025-04-03 07:00:00","2025-06-06 10:00:00",0,2,"Low Risk",345
+89,"Pulse Member 089",Basic,"2025-06-28 18:00:00","2025-06-05 06:30:00",NULL,0,2,"Low Risk",346
+96,"Pulse Member 096",Basic,"2025-06-25 18:00:00","2025-06-19 18:30:00",NULL,0,2,"Low Risk",347
+100,"Pulse Member 100",Premium,"2025-06-24 18:00:00","2025-05-22 09:00:00","2025-03-13 10:00:00",0,2,"Low Risk",348
+105,"Pulse Member 105",Student,"2025-06-24 18:00:00","2025-05-08 17:30:00","2025-03-28 10:00:00",0,2,"Low Risk",349
+107,"Pulse Member 107",Basic,"2025-06-26 18:00:00","2025-06-05 06:30:00",NULL,0,2,"Low Risk",350
+108,"Pulse Member 108",Basic,"2025-06-27 18:00:00","2025-06-19 18:30:00",NULL,0,2,"Low Risk",351
+110,"Pulse Member 110",Premium,"2025-06-24 18:00:00","2025-04-17 18:00:00","2025-04-12 10:00:00",0,2,"Low Risk",352
+115,"Pulse Member 115",Student,"2025-06-24 18:00:00","2025-04-03 07:00:00","2025-04-27 10:00:00",0,2,"Low Risk",353
+119,"Pulse Member 119",Basic,"2025-06-28 18:00:00","2025-06-05 06:30:00",NULL,0,2,"Low Risk",354
+126,"Pulse Member 126",Basic,"2025-06-25 18:00:00","2025-06-19 18:30:00",NULL,0,2,"Low Risk",355
+130,"Pulse Member 130",Premium,"2025-06-24 18:00:00","2025-05-22 09:00:00","2025-02-01 10:00:00",0,2,"Low Risk",356
+135,"Pulse Member 135",Student,"2025-06-24 18:00:00","2025-05-08 17:30:00","2025-02-16 10:00:00",0,2,"Low Risk",357
+137,"Pulse Member 137",Basic,"2025-06-26 18:00:00","2025-06-05 06:30:00",NULL,0,2,"Low Risk",358
+138,"Pulse Member 138",Basic,"2025-06-27 18:00:00","2025-06-19 18:30:00",NULL,0,2,"Low Risk",359
+140,"Pulse Member 140",Premium,"2025-06-24 18:00:00","2025-04-17 18:00:00","2025-03-03 10:00:00",0,2,"Low Risk",360
+145,"Pulse Member 145",Student,"2025-06-24 18:00:00","2025-04-03 07:00:00","2025-03-18 10:00:00",0,2,"Low Risk",361
+156,"Pulse Member 156",Basic,"2025-06-25 18:00:00","2025-06-19 18:30:00",NULL,0,2,"Low Risk",362
+160,"Pulse Member 160",Premium,"2025-06-24 18:00:00","2025-05-22 09:00:00","2025-05-02 10:00:00",0,2,"Low Risk",363
+165,"Pulse Member 165",Student,"2025-06-24 18:00:00","2025-05-08 17:30:00","2025-05-17 10:00:00",0,2,"Low Risk",364
+170,"Pulse Member 170",Premium,"2025-06-24 18:00:00","2025-04-17 18:00:00","2025-06-01 10:00:00",0,2,"Low Risk",365
+175,"Pulse Member 175",Student,"2025-06-24 18:00:00","2025-04-03 07:00:00","2025-02-06 10:00:00",0,2,"Low Risk",366
+179,"Pulse Member 179",Basic,"2025-06-28 18:00:00","2025-06-05 06:30:00",NULL,0,2,"Low Risk",367
+186,"Pulse Member 186",Basic,"2025-06-25 18:00:00","2025-06-19 18:30:00",NULL,0,2,"Low Risk",368
+190,"Pulse Member 190",Premium,"2025-06-24 18:00:00","2025-05-22 09:00:00","2025-03-23 10:00:00",0,2,"Low Risk",369
+195,"Pulse Member 195",Student,"2025-06-24 18:00:00","2025-05-08 17:30:00","2025-04-07 10:00:00",0,2,"Low Risk",370
+197,"Pulse Member 197",Basic,"2025-06-26 18:00:00","2025-06-05 06:30:00",NULL,0,2,"Low Risk",371
+198,"Pulse Member 198",Basic,"2025-06-27 18:00:00","2025-06-19 18:30:00",NULL,0,2,"Low Risk",372
+200,"Pulse Member 200",Premium,"2025-06-24 18:00:00","2025-04-17 18:00:00","2025-04-22 10:00:00",0,2,"Low Risk",373
+205,"Pulse Member 205",Student,"2025-06-24 18:00:00","2025-04-03 07:00:00","2025-05-07 10:00:00",0,2,"Low Risk",374
+209,"Pulse Member 209",Basic,"2025-06-28 18:00:00","2025-06-05 06:30:00",NULL,0,2,"Low Risk",375
+216,"Pulse Member 216",Basic,"2025-06-25 18:00:00","2025-06-19 18:30:00",NULL,0,2,"Low Risk",376
+220,"Pulse Member 220",Premium,"2025-06-24 18:00:00","2025-05-22 09:00:00","2025-02-11 10:00:00",0,2,"Low Risk",377
+225,"Pulse Member 225",Student,"2025-06-24 18:00:00","2025-05-08 17:30:00","2025-02-26 10:00:00",0,2,"Low Risk",378
+227,"Pulse Member 227",Basic,"2025-06-26 18:00:00","2025-06-05 06:30:00",NULL,0,2,"Low Risk",379
+228,"Pulse Member 228",Basic,"2025-06-27 18:00:00","2025-06-19 18:30:00",NULL,0,2,"Low Risk",380
+230,"Pulse Member 230",Premium,"2025-06-24 18:00:00","2025-04-17 18:00:00","2025-03-13 10:00:00",0,2,"Low Risk",381
+235,"Pulse Member 235",Student,"2025-06-24 18:00:00","2025-04-03 07:00:00","2025-03-28 10:00:00",0,2,"Low Risk",382
+239,"Pulse Member 239",Basic,"2025-06-28 18:00:00","2025-06-05 06:30:00",NULL,0,2,"Low Risk",383
+246,"Pulse Member 246",Basic,"2025-06-25 18:00:00","2025-06-19 18:30:00",NULL,0,2,"Low Risk",384
+250,"Pulse Member 250",Premium,"2025-06-24 18:00:00","2025-05-22 09:00:00","2025-05-12 10:00:00",0,2,"Low Risk",385
+255,"Pulse Member 255",Student,"2025-06-24 18:00:00","2025-05-08 17:30:00","2025-05-27 10:00:00",0,2,"Low Risk",386
+257,"Pulse Member 257",Basic,"2025-06-26 18:00:00","2025-06-05 06:30:00",NULL,0,2,"Low Risk",387
+258,"Pulse Member 258",Basic,"2025-06-27 18:00:00","2025-06-19 18:30:00",NULL,0,2,"Low Risk",388
+260,"Pulse Member 260",Premium,"2025-06-24 18:00:00","2025-04-17 18:00:00","2025-02-01 10:00:00",0,2,"Low Risk",389
+265,"Pulse Member 265",Student,"2025-06-24 18:00:00","2025-04-03 07:00:00","2025-02-16 10:00:00",0,2,"Low Risk",390
+269,"Pulse Member 269",Basic,"2025-06-28 18:00:00","2025-06-05 06:30:00",NULL,0,2,"Low Risk",391
+276,"Pulse Member 276",Basic,"2025-06-25 18:00:00","2025-06-19 18:30:00",NULL,0,2,"Low Risk",392
+280,"Pulse Member 280",Premium,"2025-06-24 18:00:00","2025-05-22 09:00:00","2025-04-02 10:00:00",0,2,"Low Risk",393
+285,"Pulse Member 285",Student,"2025-06-24 18:00:00","2025-05-08 17:30:00","2025-04-17 10:00:00",0,2,"Low Risk",394
+287,"Pulse Member 287",Basic,"2025-06-26 18:00:00","2025-06-05 06:30:00",NULL,0,2,"Low Risk",395
+288,"Pulse Member 288",Basic,"2025-06-27 18:00:00","2025-06-19 18:30:00",NULL,0,2,"Low Risk",396
+290,"Pulse Member 290",Premium,"2025-06-24 18:00:00","2025-04-17 18:00:00","2025-05-02 10:00:00",0,2,"Low Risk",397
+295,"Pulse Member 295",Student,"2025-06-24 18:00:00","2025-04-03 07:00:00","2025-05-17 10:00:00",0,2,"Low Risk",398
+299,"Pulse Member 299",Basic,"2025-06-28 18:00:00","2025-06-05 06:30:00",NULL,0,2,"Low Risk",399
+306,"Pulse Member 306",Basic,"2025-06-25 18:00:00","2025-06-19 18:30:00",NULL,0,2,"Low Risk",400
+310,"Pulse Member 310",Premium,"2025-06-24 18:00:00","2025-05-22 09:00:00","2025-02-21 10:00:00",0,2,"Low Risk",401
+315,"Pulse Member 315",Student,"2025-06-24 18:00:00","2025-05-08 17:30:00","2025-03-08 10:00:00",0,2,"Low Risk",402
+317,"Pulse Member 317",Basic,"2025-06-26 18:00:00","2025-06-05 06:30:00",NULL,0,2,"Low Risk",403
+318,"Pulse Member 318",Basic,"2025-06-27 18:00:00","2025-06-19 18:30:00",NULL,0,2,"Low Risk",404
+320,"Pulse Member 320",Premium,"2025-06-24 18:00:00","2025-04-17 18:00:00","2025-03-23 10:00:00",0,2,"Low Risk",405
+325,"Pulse Member 325",Student,"2025-06-24 18:00:00","2025-04-03 07:00:00","2025-04-07 10:00:00",0,2,"Low Risk",406
+329,"Pulse Member 329",Basic,"2025-06-28 18:00:00","2025-06-05 06:30:00",NULL,0,2,"Low Risk",407
+336,"Pulse Member 336",Basic,"2025-06-25 18:00:00","2025-06-19 18:30:00",NULL,0,2,"Low Risk",408
+345,"Pulse Member 345",Student,"2025-06-24 18:00:00","2025-05-08 17:30:00","2025-06-06 10:00:00",0,2,"Low Risk",409
+347,"Pulse Member 347",Basic,"2025-06-26 18:00:00","2025-06-05 06:30:00",NULL,0,2,"Low Risk",410
+348,"Pulse Member 348",Basic,"2025-06-27 18:00:00","2025-06-19 18:30:00",NULL,0,2,"Low Risk",411
+350,"Pulse Member 350",Premium,"2025-06-24 18:00:00","2025-04-17 18:00:00","2025-02-11 10:00:00",0,2,"Low Risk",412
+355,"Pulse Member 355",Student,"2025-06-24 18:00:00","2025-04-03 07:00:00","2025-02-26 10:00:00",0,2,"Low Risk",413
+359,"Pulse Member 359",Basic,"2025-06-28 18:00:00","2025-06-05 06:30:00",NULL,0,2,"Low Risk",414
+366,"Pulse Member 366",Basic,"2025-06-25 18:00:00","2025-06-19 18:30:00",NULL,0,2,"Low Risk",415
+370,"Pulse Member 370",Premium,"2025-06-24 18:00:00","2025-05-22 09:00:00","2025-04-12 10:00:00",0,2,"Low Risk",416
+375,"Pulse Member 375",Student,"2025-06-24 18:00:00","2025-05-08 17:30:00","2025-04-27 10:00:00",0,2,"Low Risk",417
+377,"Pulse Member 377",Basic,"2025-06-26 18:00:00","2025-06-05 06:30:00",NULL,0,2,"Low Risk",418
+378,"Pulse Member 378",Basic,"2025-06-27 18:00:00","2025-06-19 18:30:00",NULL,0,2,"Low Risk",419
+380,"Pulse Member 380",Premium,"2025-06-24 18:00:00","2025-04-17 18:00:00","2025-05-12 10:00:00",0,2,"Low Risk",420
+385,"Pulse Member 385",Student,"2025-06-24 18:00:00","2025-04-03 07:00:00","2025-05-27 10:00:00",0,2,"Low Risk",421
+389,"Pulse Member 389",Basic,"2025-06-28 18:00:00","2025-06-05 06:30:00",NULL,0,2,"Low Risk",422
+396,"Pulse Member 396",Basic,"2025-06-25 18:00:00","2025-06-19 18:30:00",NULL,0,2,"Low Risk",423
+400,"Pulse Member 400",Premium,"2025-06-24 18:00:00","2025-05-22 09:00:00","2025-03-03 10:00:00",0,2,"Low Risk",424
+405,"Pulse Member 405",Student,"2025-06-24 18:00:00","2025-05-08 17:30:00","2025-03-18 10:00:00",0,2,"Low Risk",425
+407,"Pulse Member 407",Basic,"2025-06-26 18:00:00","2025-06-05 06:30:00",NULL,0,2,"Low Risk",426
+408,"Pulse Member 408",Basic,"2025-06-27 18:00:00","2025-06-19 18:30:00",NULL,0,2,"Low Risk",427
+410,"Pulse Member 410",Premium,"2025-06-24 18:00:00","2025-04-17 18:00:00","2025-04-02 10:00:00",0,2,"Low Risk",428
+415,"Pulse Member 415",Student,"2025-06-24 18:00:00","2025-04-03 07:00:00","2025-04-17 10:00:00",0,2,"Low Risk",429
+419,"Pulse Member 419",Basic,"2025-06-28 18:00:00","2025-06-05 06:30:00",NULL,0,2,"Low Risk",430
+430,"Pulse Member 430",Premium,"2025-06-24 18:00:00","2025-05-22 09:00:00","2025-06-01 10:00:00",0,2,"Low Risk",431
+435,"Pulse Member 435",Student,"2025-06-24 18:00:00","2025-05-08 17:30:00","2025-02-06 10:00:00",0,2,"Low Risk",432
+437,"Pulse Member 437",Basic,"2025-06-26 18:00:00","2025-06-05 06:30:00",NULL,0,2,"Low Risk",433
+438,"Pulse Member 438",Basic,"2025-06-27 18:00:00","2025-06-19 18:30:00",NULL,0,2,"Low Risk",434
+440,"Pulse Member 440",Premium,"2025-06-24 18:00:00","2025-04-17 18:00:00","2025-02-21 10:00:00",0,2,"Low Risk",435
+445,"Pulse Member 445",Student,"2025-06-24 18:00:00","2025-04-03 07:00:00","2025-03-08 10:00:00",0,2,"Low Risk",436
+449,"Pulse Member 449",Basic,"2025-06-28 18:00:00","2025-06-05 06:30:00",NULL,0,2,"Low Risk",437
+456,"Pulse Member 456",Basic,"2025-06-25 18:00:00","2025-06-19 18:30:00",NULL,0,2,"Low Risk",438
+460,"Pulse Member 460",Premium,"2025-06-24 18:00:00","2025-05-22 09:00:00","2025-04-22 10:00:00",0,2,"Low Risk",439
+465,"Pulse Member 465",Student,"2025-06-24 18:00:00","2025-05-08 17:30:00","2025-05-07 10:00:00",0,2,"Low Risk",440
+467,"Pulse Member 467",Basic,"2025-06-26 18:00:00","2025-06-05 06:30:00",NULL,0,2,"Low Risk",441
+470,"Pulse Member 470",Premium,"2025-06-24 18:00:00","2025-04-17 18:00:00","2025-05-22 10:00:00",0,2,"Low Risk",442
+475,"Pulse Member 475",Student,"2025-06-24 18:00:00","2025-04-03 07:00:00","2025-06-06 10:00:00",0,2,"Low Risk",443
+479,"Pulse Member 479",Basic,"2025-06-28 18:00:00","2025-06-05 06:30:00",NULL,0,2,"Low Risk",444
+486,"Pulse Member 486",Basic,"2025-06-25 18:00:00","2025-06-19 18:30:00",NULL,0,2,"Low Risk",445
+490,"Pulse Member 490",Premium,"2025-06-24 18:00:00","2025-05-22 09:00:00","2025-03-13 10:00:00",0,2,"Low Risk",446
+495,"Pulse Member 495",Student,"2025-06-24 18:00:00","2025-05-08 17:30:00","2025-03-28 10:00:00",0,2,"Low Risk",447
+497,"Pulse Member 497",Basic,"2025-06-26 18:00:00","2025-06-05 06:30:00",NULL,0,2,"Low Risk",448
+500,"Pulse Member 500",Premium,"2025-06-24 18:00:00","2025-04-17 18:00:00","2025-04-12 10:00:00",0,2,"Low Risk",449
+505,"Pulse Member 505",Student,"2025-06-24 18:00:00","2025-04-03 07:00:00","2025-04-27 10:00:00",0,2,"Low Risk",450
+509,"Pulse Member 509",Basic,"2025-06-28 18:00:00","2025-06-05 06:30:00",NULL,0,2,"Low Risk",451
+516,"Pulse Member 516",Basic,"2025-06-25 18:00:00","2025-06-19 18:30:00",NULL,0,2,"Low Risk",452
+520,"Pulse Member 520",Premium,"2025-06-24 18:00:00","2025-05-22 09:00:00","2025-02-01 10:00:00",0,2,"Low Risk",453
+525,"Pulse Member 525",Student,"2025-06-24 18:00:00","2025-05-08 17:30:00","2025-02-16 10:00:00",0,2,"Low Risk",454
+527,"Pulse Member 527",Basic,"2025-06-26 18:00:00","2025-06-05 06:30:00",NULL,0,2,"Low Risk",455
+528,"Pulse Member 528",Basic,"2025-06-27 18:00:00","2025-06-19 18:30:00",NULL,0,2,"Low Risk",456
+530,"Pulse Member 530",Premium,"2025-06-24 18:00:00","2025-04-17 18:00:00","2025-03-03 10:00:00",0,2,"Low Risk",457
+535,"Pulse Member 535",Student,"2025-06-24 18:00:00","2025-04-03 07:00:00","2025-03-18 10:00:00",0,2,"Low Risk",458
+539,"Pulse Member 539",Basic,"2025-06-28 18:00:00","2025-06-05 06:30:00",NULL,0,2,"Low Risk",459
+546,"Pulse Member 546",Basic,"2025-06-25 18:00:00","2025-06-19 18:30:00",NULL,0,2,"Low Risk",460
+550,"Pulse Member 550",Premium,"2025-06-24 18:00:00","2025-05-22 09:00:00","2025-05-02 10:00:00",0,2,"Low Risk",461
+557,"Pulse Member 557",Basic,"2025-06-26 18:00:00","2025-06-05 06:30:00",NULL,0,2,"Low Risk",462
+558,"Pulse Member 558",Basic,"2025-06-27 18:00:00","2025-06-19 18:30:00",NULL,0,2,"Low Risk",463
+560,"Pulse Member 560",Premium,"2025-06-24 18:00:00","2025-04-17 18:00:00","2025-06-01 10:00:00",0,2,"Low Risk",464
+565,"Pulse Member 565",Student,"2025-06-24 18:00:00","2025-04-03 07:00:00","2025-02-06 10:00:00",0,2,"Low Risk",465
+569,"Pulse Member 569",Basic,"2025-06-28 18:00:00","2025-06-05 06:30:00",NULL,0,2,"Low Risk",466
+576,"Pulse Member 576",Basic,"2025-06-25 18:00:00","2025-06-19 18:30:00",NULL,0,2,"Low Risk",467
+580,"Pulse Member 580",Premium,"2025-06-24 18:00:00","2025-05-22 09:00:00","2025-03-23 10:00:00",0,2,"Low Risk",468
+585,"Pulse Member 585",Student,"2025-06-24 18:00:00","2025-05-08 17:30:00","2025-04-07 10:00:00",0,2,"Low Risk",469
+587,"Pulse Member 587",Basic,"2025-06-26 18:00:00","2025-06-05 06:30:00",NULL,0,2,"Low Risk",470
+588,"Pulse Member 588",Basic,"2025-06-27 18:00:00","2025-06-19 18:30:00",NULL,0,2,"Low Risk",471
+590,"Pulse Member 590",Premium,"2025-06-24 18:00:00","2025-04-17 18:00:00","2025-04-22 10:00:00",0,2,"Low Risk",472
+595,"Pulse Member 595",Student,"2025-06-24 18:00:00","2025-04-03 07:00:00","2025-05-07 10:00:00",0,2,"Low Risk",473
+599,"Pulse Member 599",Basic,"2025-06-28 18:00:00","2025-06-05 06:30:00",NULL,0,2,"Low Risk",474
+2,"Maya Thompson",Basic,"2025-06-06 18:00:00","2025-06-19 18:30:00","2025-01-25 10:00:00",0,1,"Low Risk",475
+21,"Ruby Clark",Premium,"2025-06-11 18:00:00","2025-06-05 06:30:00",NULL,0,1,"Low Risk",476
+41,"Pulse Member 041",Premium,"2025-06-25 18:00:00","2025-06-05 06:30:00",NULL,0,1,"Low Risk",477
+42,"Pulse Member 042",Premium,"2025-06-26 18:00:00","2025-06-19 18:30:00",NULL,0,1,"Low Risk",478
+53,"Pulse Member 053",Student,"2025-06-27 18:00:00","2025-06-05 06:30:00",NULL,0,1,"Low Risk",479
+54,"Pulse Member 054",Student,"2025-06-28 18:00:00","2025-06-19 18:30:00",NULL,0,1,"Low Risk",480
+71,"Pulse Member 071",Premium,"2025-06-25 18:00:00","2025-06-05 06:30:00",NULL,0,1,"Low Risk",481
+72,"Pulse Member 072",Premium,"2025-06-26 18:00:00","2025-06-19 18:30:00",NULL,0,1,"Low Risk",482
+83,"Pulse Member 083",Student,"2025-06-27 18:00:00","2025-06-05 06:30:00",NULL,0,1,"Low Risk",483
+84,"Pulse Member 084",Student,"2025-06-28 18:00:00","2025-06-19 18:30:00",NULL,0,1,"Low Risk",484
+101,"Pulse Member 101",Premium,"2025-06-25 18:00:00","2025-06-05 06:30:00",NULL,0,1,"Low Risk",485
+102,"Pulse Member 102",Premium,"2025-06-26 18:00:00","2025-06-19 18:30:00",NULL,0,1,"Low Risk",486
+113,"Pulse Member 113",Student,"2025-06-27 18:00:00","2025-06-05 06:30:00",NULL,0,1,"Low Risk",487
+114,"Pulse Member 114",Student,"2025-06-28 18:00:00","2025-06-19 18:30:00",NULL,0,1,"Low Risk",488
+131,"Pulse Member 131",Premium,"2025-06-25 18:00:00","2025-06-05 06:30:00",NULL,0,1,"Low Risk",489
+132,"Pulse Member 132",Premium,"2025-06-26 18:00:00","2025-06-19 18:30:00",NULL,0,1,"Low Risk",490
+143,"Pulse Member 143",Student,"2025-06-27 18:00:00","2025-06-05 06:30:00",NULL,0,1,"Low Risk",491
+144,"Pulse Member 144",Student,"2025-06-28 18:00:00","2025-06-19 18:30:00",NULL,0,1,"Low Risk",492
+161,"Pulse Member 161",Premium,"2025-06-25 18:00:00","2025-06-05 06:30:00",NULL,0,1,"Low Risk",493
+162,"Pulse Member 162",Premium,"2025-06-26 18:00:00","2025-06-19 18:30:00",NULL,0,1,"Low Risk",494
+173,"Pulse Member 173",Student,"2025-06-27 18:00:00","2025-06-05 06:30:00",NULL,0,1,"Low Risk",495
+174,"Pulse Member 174",Student,"2025-06-28 18:00:00","2025-06-19 18:30:00",NULL,0,1,"Low Risk",496
+191,"Pulse Member 191",Premium,"2025-06-25 18:00:00","2025-06-05 06:30:00",NULL,0,1,"Low Risk",497
+192,"Pulse Member 192",Premium,"2025-06-26 18:00:00","2025-06-19 18:30:00",NULL,0,1,"Low Risk",498
+203,"Pulse Member 203",Student,"2025-06-27 18:00:00","2025-06-05 06:30:00",NULL,0,1,"Low Risk",499
+204,"Pulse Member 204",Student,"2025-06-28 18:00:00","2025-06-19 18:30:00",NULL,0,1,"Low Risk",500
+221,"Pulse Member 221",Premium,"2025-06-25 18:00:00","2025-06-05 06:30:00",NULL,0,1,"Low Risk",501
+222,"Pulse Member 222",Premium,"2025-06-26 18:00:00","2025-06-19 18:30:00",NULL,0,1,"Low Risk",502
+233,"Pulse Member 233",Student,"2025-06-27 18:00:00","2025-06-05 06:30:00",NULL,0,1,"Low Risk",503
+234,"Pulse Member 234",Student,"2025-06-28 18:00:00","2025-06-19 18:30:00",NULL,0,1,"Low Risk",504
+251,"Pulse Member 251",Premium,"2025-06-25 18:00:00","2025-06-05 06:30:00",NULL,0,1,"Low Risk",505
+252,"Pulse Member 252",Premium,"2025-06-26 18:00:00","2025-06-19 18:30:00",NULL,0,1,"Low Risk",506
+263,"Pulse Member 263",Student,"2025-06-27 18:00:00","2025-06-05 06:30:00",NULL,0,1,"Low Risk",507
+264,"Pulse Member 264",Student,"2025-06-28 18:00:00","2025-06-19 18:30:00",NULL,0,1,"Low Risk",508
+281,"Pulse Member 281",Premium,"2025-06-25 18:00:00","2025-06-05 06:30:00",NULL,0,1,"Low Risk",509
+282,"Pulse Member 282",Premium,"2025-06-26 18:00:00","2025-06-19 18:30:00",NULL,0,1,"Low Risk",510
+293,"Pulse Member 293",Student,"2025-06-27 18:00:00","2025-06-05 06:30:00",NULL,0,1,"Low Risk",511
+294,"Pulse Member 294",Student,"2025-06-28 18:00:00","2025-06-19 18:30:00",NULL,0,1,"Low Risk",512
+311,"Pulse Member 311",Premium,"2025-06-25 18:00:00","2025-06-05 06:30:00",NULL,0,1,"Low Risk",513
+312,"Pulse Member 312",Premium,"2025-06-26 18:00:00","2025-06-19 18:30:00",NULL,0,1,"Low Risk",514
+323,"Pulse Member 323",Student,"2025-06-27 18:00:00","2025-06-05 06:30:00",NULL,0,1,"Low Risk",515
+324,"Pulse Member 324",Student,"2025-06-28 18:00:00","2025-06-19 18:30:00",NULL,0,1,"Low Risk",516
+341,"Pulse Member 341",Premium,"2025-06-25 18:00:00","2025-06-05 06:30:00",NULL,0,1,"Low Risk",517
+342,"Pulse Member 342",Premium,"2025-06-26 18:00:00","2025-06-19 18:30:00",NULL,0,1,"Low Risk",518
+353,"Pulse Member 353",Student,"2025-06-27 18:00:00","2025-06-05 06:30:00",NULL,0,1,"Low Risk",519
+354,"Pulse Member 354",Student,"2025-06-28 18:00:00","2025-06-19 18:30:00",NULL,0,1,"Low Risk",520
+371,"Pulse Member 371",Premium,"2025-06-25 18:00:00","2025-06-05 06:30:00",NULL,0,1,"Low Risk",521
+372,"Pulse Member 372",Premium,"2025-06-26 18:00:00","2025-06-19 18:30:00",NULL,0,1,"Low Risk",522
+384,"Pulse Member 384",Student,"2025-06-28 18:00:00","2025-06-19 18:30:00",NULL,0,1,"Low Risk",523
+401,"Pulse Member 401",Premium,"2025-06-25 18:00:00","2025-06-05 06:30:00",NULL,0,1,"Low Risk",524
+402,"Pulse Member 402",Premium,"2025-06-26 18:00:00","2025-06-19 18:30:00",NULL,0,1,"Low Risk",525
+413,"Pulse Member 413",Student,"2025-06-27 18:00:00","2025-06-05 06:30:00",NULL,0,1,"Low Risk",526
+414,"Pulse Member 414",Student,"2025-06-28 18:00:00","2025-06-19 18:30:00",NULL,0,1,"Low Risk",527
+431,"Pulse Member 431",Premium,"2025-06-25 18:00:00","2025-06-05 06:30:00",NULL,0,1,"Low Risk",528
+432,"Pulse Member 432",Premium,"2025-06-26 18:00:00","2025-06-19 18:30:00",NULL,0,1,"Low Risk",529
+443,"Pulse Member 443",Student,"2025-06-27 18:00:00","2025-06-05 06:30:00",NULL,0,1,"Low Risk",530
+444,"Pulse Member 444",Student,"2025-06-28 18:00:00","2025-06-19 18:30:00",NULL,0,1,"Low Risk",531
+461,"Pulse Member 461",Premium,"2025-06-25 18:00:00","2025-06-05 06:30:00",NULL,0,1,"Low Risk",532
+462,"Pulse Member 462",Premium,"2025-06-26 18:00:00","2025-06-19 18:30:00",NULL,0,1,"Low Risk",533
+473,"Pulse Member 473",Student,"2025-06-27 18:00:00","2025-06-05 06:30:00",NULL,0,1,"Low Risk",534
+474,"Pulse Member 474",Student,"2025-06-28 18:00:00","2025-06-19 18:30:00",NULL,0,1,"Low Risk",535
+491,"Pulse Member 491",Premium,"2025-06-25 18:00:00","2025-06-05 06:30:00",NULL,0,1,"Low Risk",536
+492,"Pulse Member 492",Premium,"2025-06-26 18:00:00","2025-06-19 18:30:00",NULL,0,1,"Low Risk",537
+503,"Pulse Member 503",Student,"2025-06-27 18:00:00","2025-06-05 06:30:00",NULL,0,1,"Low Risk",538
+504,"Pulse Member 504",Student,"2025-06-28 18:00:00","2025-06-19 18:30:00",NULL,0,1,"Low Risk",539
+521,"Pulse Member 521",Premium,"2025-06-25 18:00:00","2025-06-05 06:30:00",NULL,0,1,"Low Risk",540
+522,"Pulse Member 522",Premium,"2025-06-26 18:00:00","2025-06-19 18:30:00",NULL,0,1,"Low Risk",541
+533,"Pulse Member 533",Student,"2025-06-27 18:00:00","2025-06-05 06:30:00",NULL,0,1,"Low Risk",542
+534,"Pulse Member 534",Student,"2025-06-28 18:00:00","2025-06-19 18:30:00",NULL,0,1,"Low Risk",543
+551,"Pulse Member 551",Premium,"2025-06-25 18:00:00","2025-06-05 06:30:00",NULL,0,1,"Low Risk",544
+552,"Pulse Member 552",Premium,"2025-06-26 18:00:00","2025-06-19 18:30:00",NULL,0,1,"Low Risk",545
+563,"Pulse Member 563",Student,"2025-06-27 18:00:00","2025-06-05 06:30:00",NULL,0,1,"Low Risk",546
+564,"Pulse Member 564",Student,"2025-06-28 18:00:00","2025-06-19 18:30:00",NULL,0,1,"Low Risk",547
+593,"Pulse Member 593",Student,"2025-06-27 18:00:00","2025-06-05 06:30:00",NULL,0,1,"Low Risk",548
+594,"Pulse Member 594",Student,"2025-06-28 18:00:00","2025-06-19 18:30:00",NULL,0,1,"Low Risk",549
+1,"Alex Carter",Premium,"2025-06-10 07:00:00","2025-06-05 06:30:00","2025-03-15 10:00:00",0,0,"Low Risk",550
+3,"Liam Wilson",Student,"2025-06-07 18:00:00","2025-06-19 18:30:00","2025-02-08 10:00:00",0,0,"Low Risk",551
+4,"Olivia Brown",Premium,"2025-06-12 18:00:00","2025-06-19 18:30:00","2025-01-29 11:00:00",0,0,"Low Risk",552
+16,"Isaac Green",Premium,"2025-06-04 07:00:00","2025-06-05 06:30:00","2025-05-28 11:00:00",0,0,"Low Risk",553
+27,"Natalie Ward",Premium,"2025-06-13 07:00:00","2025-06-19 18:30:00","2025-05-14 13:00:00",0,0,"Low Risk",554
+35,"Pulse Member 035",Student,"2025-06-24 18:00:00","2025-06-05 06:30:00","2025-05-17 10:00:00",0,0,"Low Risk",555
+60,"Pulse Member 060",Premium,"2025-06-24 18:00:00","2025-06-19 18:30:00","2025-03-23 10:00:00",0,0,"Low Risk",556
+65,"Pulse Member 065",Student,"2025-06-24 18:00:00","2025-06-05 06:30:00","2025-04-07 10:00:00",0,0,"Low Risk",557
+90,"Pulse Member 090",Premium,"2025-06-24 18:00:00","2025-06-19 18:30:00","2025-02-11 10:00:00",0,0,"Low Risk",558
+95,"Pulse Member 095",Student,"2025-06-24 18:00:00","2025-06-05 06:30:00","2025-02-26 10:00:00",0,0,"Low Risk",559
+120,"Pulse Member 120",Premium,"2025-06-24 18:00:00","2025-06-19 18:30:00","2025-05-12 10:00:00",0,0,"Low Risk",560
+150,"Pulse Member 150",Premium,"2025-06-24 18:00:00","2025-06-19 18:30:00","2025-04-02 10:00:00",0,0,"Low Risk",561
+155,"Pulse Member 155",Student,"2025-06-24 18:00:00","2025-06-05 06:30:00","2025-04-17 10:00:00",0,0,"Low Risk",562
+180,"Pulse Member 180",Premium,"2025-06-24 18:00:00","2025-06-19 18:30:00","2025-02-21 10:00:00",0,0,"Low Risk",563
+185,"Pulse Member 185",Student,"2025-06-24 18:00:00","2025-06-05 06:30:00","2025-03-08 10:00:00",0,0,"Low Risk",564
+215,"Pulse Member 215",Student,"2025-06-24 18:00:00","2025-06-05 06:30:00","2025-06-06 10:00:00",0,0,"Low Risk",565
+240,"Pulse Member 240",Premium,"2025-06-24 18:00:00","2025-06-19 18:30:00","2025-04-12 10:00:00",0,0,"Low Risk",566
+245,"Pulse Member 245",Student,"2025-06-24 18:00:00","2025-06-05 06:30:00","2025-04-27 10:00:00",0,0,"Low Risk",567
+270,"Pulse Member 270",Premium,"2025-06-24 18:00:00","2025-06-19 18:30:00","2025-03-03 10:00:00",0,0,"Low Risk",568
+275,"Pulse Member 275",Student,"2025-06-24 18:00:00","2025-06-05 06:30:00","2025-03-18 10:00:00",0,0,"Low Risk",569
+300,"Pulse Member 300",Premium,"2025-06-24 18:00:00","2025-06-19 18:30:00","2025-06-01 10:00:00",0,0,"Low Risk",570
+305,"Pulse Member 305",Student,"2025-06-24 18:00:00","2025-06-05 06:30:00","2025-02-06 10:00:00",0,0,"Low Risk",571
+330,"Pulse Member 330",Premium,"2025-06-24 18:00:00","2025-06-19 18:30:00","2025-04-22 10:00:00",0,0,"Low Risk",572
+335,"Pulse Member 335",Student,"2025-06-24 18:00:00","2025-06-05 06:30:00","2025-05-07 10:00:00",0,0,"Low Risk",573
+360,"Pulse Member 360",Premium,"2025-06-24 18:00:00","2025-06-19 18:30:00","2025-03-13 10:00:00",0,0,"Low Risk",574
+365,"Pulse Member 365",Student,"2025-06-24 18:00:00","2025-06-05 06:30:00","2025-03-28 10:00:00",0,0,"Low Risk",575
+390,"Pulse Member 390",Premium,"2025-06-24 18:00:00","2025-06-19 18:30:00","2025-02-01 10:00:00",0,0,"Low Risk",576
+395,"Pulse Member 395",Student,"2025-06-24 18:00:00","2025-06-05 06:30:00","2025-02-16 10:00:00",0,0,"Low Risk",577
+420,"Pulse Member 420",Premium,"2025-06-24 18:00:00","2025-06-19 18:30:00","2025-05-02 10:00:00",0,0,"Low Risk",578
+450,"Pulse Member 450",Premium,"2025-06-24 18:00:00","2025-06-19 18:30:00","2025-03-23 10:00:00",0,0,"Low Risk",579
+455,"Pulse Member 455",Student,"2025-06-24 18:00:00","2025-06-05 06:30:00","2025-04-07 10:00:00",0,0,"Low Risk",580
+480,"Pulse Member 480",Premium,"2025-06-24 18:00:00","2025-06-19 18:30:00","2025-02-11 10:00:00",0,0,"Low Risk",581
+510,"Pulse Member 510",Premium,"2025-06-24 18:00:00","2025-06-19 18:30:00","2025-05-12 10:00:00",0,0,"Low Risk",582
+515,"Pulse Member 515",Student,"2025-06-24 18:00:00","2025-06-05 06:30:00","2025-05-27 10:00:00",0,0,"Low Risk",583
+540,"Pulse Member 540",Premium,"2025-06-24 18:00:00","2025-06-19 18:30:00","2025-04-02 10:00:00",0,0,"Low Risk",584
+545,"Pulse Member 545",Student,"2025-06-24 18:00:00","2025-06-05 06:30:00","2025-04-17 10:00:00",0,0,"Low Risk",585
+570,"Pulse Member 570",Premium,"2025-06-24 18:00:00","2025-06-19 18:30:00","2025-02-21 10:00:00",0,0,"Low Risk",586
+575,"Pulse Member 575",Student,"2025-06-24 18:00:00","2025-06-05 06:30:00","2025-03-08 10:00:00",0,0,"Low Risk",587
+600,"Pulse Member 600",Premium,"2025-06-24 18:00:00","2025-06-19 18:30:00","2025-05-22 10:00:00",0,0,"Low Risk",588

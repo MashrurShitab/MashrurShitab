@@ -1,0 +1,173 @@
+<mxfile host="app.diagrams.net" modified="2026-05-03T00:00:00.000Z" agent="Codex" version="24.7.17">
+  <diagram id="pulse-fitness-v2" name="Pulse Fitness Chen ERD V2">
+    <mxGraphModel dx="1920" dy="1080" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="title" value="Pulse Fitness SQL Analytics Platform - Corrected Chen ERD V2" style="text;html=1;strokeColor=none;fillColor=none;fontSize=22;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="360" y="20" width="780" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="member" value="Member" style="whiteSpace=wrap;html=1;rounded=0;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="120" y="260" width="140" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="member_attrs" value="&lt;u&gt;MemberID&lt;/u&gt;&#xa;FullName&#xa;Email&#xa;JoinDate&#xa;MemberStatus" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#6c8ebf" vertex="1" parent="1">
+          <mxGeometry x="80" y="105" width="220" height="110" as="geometry"/>
+        </mxCell>
+        <mxCell id="membership" value="MembershipType" style="whiteSpace=wrap;html=1;rounded=0;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="420" y="120" width="150" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="membership_attrs" value="&lt;u&gt;MembershipTypeID&lt;/u&gt;&#xa;TypeName&#xa;PricePerMonth&#xa;ClassLimitPerWeek&#xa;IncludesFreePT" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#6c8ebf" vertex="1" parent="1">
+          <mxGeometry x="390" y="10" width="210" height="95" as="geometry"/>
+        </mxCell>
+        <mxCell id="location" value="GymLocation" style="whiteSpace=wrap;html=1;rounded=0;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="420" y="420" width="150" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="location_attrs" value="&lt;u&gt;LocationID&lt;/u&gt;&#xa;LocationName&#xa;City&#xa;State&#xa;Postcode" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#6c8ebf" vertex="1" parent="1">
+          <mxGeometry x="390" y="500" width="210" height="95" as="geometry"/>
+        </mxCell>
+        <mxCell id="trainer" value="Trainer" style="whiteSpace=wrap;html=1;rounded=0;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="760" y="420" width="140" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="trainer_attrs" value="&lt;u&gt;TrainerID&lt;/u&gt;&#xa;FullName&#xa;Specialisation&#xa;EmploymentStatus" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#6c8ebf" vertex="1" parent="1">
+          <mxGeometry x="730" y="500" width="210" height="85" as="geometry"/>
+        </mxCell>
+        <mxCell id="fitness_class" value="FitnessClass" style="whiteSpace=wrap;html=1;rounded=0;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1040" y="120" width="150" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="fitness_class_attrs" value="&lt;u&gt;ClassID&lt;/u&gt;&#xa;ClassName&#xa;DifficultyLevel&#xa;DefaultDurationMinutes" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#6c8ebf" vertex="1" parent="1">
+          <mxGeometry x="1010" y="10" width="220" height="90" as="geometry"/>
+        </mxCell>
+        <mxCell id="class_session" value="ClassSession" style="whiteSpace=wrap;html=1;rounded=0;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1040" y="420" width="150" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="class_session_attrs" value="&lt;u&gt;SessionID&lt;/u&gt;&#xa;SessionStart&#xa;SessionEnd&#xa;MaxCapacity&#xa;SessionStatus" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#6c8ebf" vertex="1" parent="1">
+          <mxGeometry x="1010" y="505" width="220" height="100" as="geometry"/>
+        </mxCell>
+        <mxCell id="enrollment" value="ClassEnrollment" style="whiteSpace=wrap;html=1;rounded=0;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="760" y="730" width="160" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="enrollment_attrs" value="&lt;u&gt;EnrollmentID&lt;/u&gt;&#xa;EnrollmentDate&#xa;BookingStatus" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#6c8ebf" vertex="1" parent="1">
+          <mxGeometry x="730" y="810" width="220" height="75" as="geometry"/>
+        </mxCell>
+        <mxCell id="attendance" value="ClassAttendance" style="whiteSpace=wrap;html=1;rounded=0;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1040" y="730" width="160" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="attendance_attrs" value="&lt;u&gt;AttendanceID&lt;/u&gt;&#xa;AttendanceStatus&#xa;CheckInTime&#xa;CheckOutTime" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#6c8ebf" vertex="1" parent="1">
+          <mxGeometry x="1010" y="810" width="220" height="85" as="geometry"/>
+        </mxCell>
+        <mxCell id="payment" value="Payment" style="whiteSpace=wrap;html=1;rounded=0;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="120" y="520" width="140" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="payment_attrs" value="&lt;u&gt;PaymentID&lt;/u&gt;&#xa;PaymentDate&#xa;Amount&#xa;PaymentMethod&#xa;PaymentStatus&#xa;PaymentCategory" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#6c8ebf" vertex="1" parent="1">
+          <mxGeometry x="80" y="610" width="220" height="110" as="geometry"/>
+        </mxCell>
+        <mxCell id="visit" value="FacilityVisit" style="whiteSpace=wrap;html=1;rounded=0;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="420" y="730" width="150" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="visit_attrs" value="&lt;u&gt;VisitID&lt;/u&gt;&#xa;CheckInTime&#xa;CheckOutTime&#xa;FacilityUsed" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#6c8ebf" vertex="1" parent="1">
+          <mxGeometry x="390" y="810" width="210" height="85" as="geometry"/>
+        </mxCell>
+        <mxCell id="pt" value="PersonalTrainingSession" style="whiteSpace=wrap;html=1;rounded=0;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="720" y="250" width="210" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="pt_attrs" value="&lt;u&gt;PTSessionID&lt;/u&gt;&#xa;SessionStart&#xa;SessionEnd&#xa;Rating&#xa;SessionStatus" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#6c8ebf" vertex="1" parent="1">
+          <mxGeometry x="725" y="125" width="210" height="95" as="geometry"/>
+        </mxCell>
+        <mxCell id="rel_subscribes" value="subscribes_to" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656" vertex="1" parent="1">
+          <mxGeometry x="315" y="185" width="100" height="70" as="geometry"/>
+        </mxCell>
+        <mxCell id="rel_registers" value="registers_at" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656" vertex="1" parent="1">
+          <mxGeometry x="315" y="350" width="100" height="70" as="geometry"/>
+        </mxCell>
+        <mxCell id="rel_makes" value="makes" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656" vertex="1" parent="1">
+          <mxGeometry x="125" y="380" width="90" height="65" as="geometry"/>
+        </mxCell>
+        <mxCell id="rel_employs" value="employs" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656" vertex="1" parent="1">
+          <mxGeometry x="635" y="410" width="90" height="65" as="geometry"/>
+        </mxCell>
+        <mxCell id="rel_scheduled" value="scheduled_as" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656" vertex="1" parent="1">
+          <mxGeometry x="1065" y="250" width="100" height="75" as="geometry"/>
+        </mxCell>
+        <mxCell id="rel_conducts_class" value="conducts" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656" vertex="1" parent="1">
+          <mxGeometry x="920" y="350" width="90" height="65" as="geometry"/>
+        </mxCell>
+        <mxCell id="rel_hosts_class" value="hosts" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656" vertex="1" parent="1">
+          <mxGeometry x="735" y="610" width="90" height="65" as="geometry"/>
+        </mxCell>
+        <mxCell id="rel_enrols" value="enrols_in" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656" vertex="1" parent="1">
+          <mxGeometry x="470" y="650" width="100" height="70" as="geometry"/>
+        </mxCell>
+        <mxCell id="rel_records" value="records" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656" vertex="1" parent="1">
+          <mxGeometry x="945" y="725" width="80" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="rel_checks_in" value="checks_in" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656" vertex="1" parent="1">
+          <mxGeometry x="310" y="710" width="100" height="70" as="geometry"/>
+        </mxCell>
+        <mxCell id="rel_pt_member" value="attends" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656" vertex="1" parent="1">
+          <mxGeometry x="485" y="245" width="90" height="65" as="geometry"/>
+        </mxCell>
+        <mxCell id="rel_pt_trainer" value="conducts" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656" vertex="1" parent="1">
+          <mxGeometry x="780" y="330" width="90" height="65" as="geometry"/>
+        </mxCell>
+        <mxCell id="rel_pt_location" value="hosts" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656" vertex="1" parent="1">
+          <mxGeometry x="600" y="320" width="90" height="65" as="geometry"/>
+        </mxCell>
+        <mxCell id="e_member_attr" edge="1" parent="1" source="member_attrs" target="member" style="endArrow=none;html=1;rounded=0;strokeColor=#666666"><mxGeometry relative="1" as="geometry"/></mxCell>
+        <mxCell id="e_membership_attr" edge="1" parent="1" source="membership_attrs" target="membership" style="endArrow=none;html=1;rounded=0;strokeColor=#666666"><mxGeometry relative="1" as="geometry"/></mxCell>
+        <mxCell id="e_location_attr" edge="1" parent="1" source="location_attrs" target="location" style="endArrow=none;html=1;rounded=0;strokeColor=#666666"><mxGeometry relative="1" as="geometry"/></mxCell>
+        <mxCell id="e_trainer_attr" edge="1" parent="1" source="trainer_attrs" target="trainer" style="endArrow=none;html=1;rounded=0;strokeColor=#666666"><mxGeometry relative="1" as="geometry"/></mxCell>
+        <mxCell id="e_fc_attr" edge="1" parent="1" source="fitness_class_attrs" target="fitness_class" style="endArrow=none;html=1;rounded=0;strokeColor=#666666"><mxGeometry relative="1" as="geometry"/></mxCell>
+        <mxCell id="e_cs_attr" edge="1" parent="1" source="class_session_attrs" target="class_session" style="endArrow=none;html=1;rounded=0;strokeColor=#666666"><mxGeometry relative="1" as="geometry"/></mxCell>
+        <mxCell id="e_enroll_attr" edge="1" parent="1" source="enrollment_attrs" target="enrollment" style="endArrow=none;html=1;rounded=0;strokeColor=#666666"><mxGeometry relative="1" as="geometry"/></mxCell>
+        <mxCell id="e_att_attr" edge="1" parent="1" source="attendance_attrs" target="attendance" style="endArrow=none;html=1;rounded=0;strokeColor=#666666"><mxGeometry relative="1" as="geometry"/></mxCell>
+        <mxCell id="e_pay_attr" edge="1" parent="1" source="payment_attrs" target="payment" style="endArrow=none;html=1;rounded=0;strokeColor=#666666"><mxGeometry relative="1" as="geometry"/></mxCell>
+        <mxCell id="e_visit_attr" edge="1" parent="1" source="visit_attrs" target="visit" style="endArrow=none;html=1;rounded=0;strokeColor=#666666"><mxGeometry relative="1" as="geometry"/></mxCell>
+        <mxCell id="e_pt_attr" edge="1" parent="1" source="pt_attrs" target="pt" style="endArrow=none;html=1;rounded=0;strokeColor=#666666"><mxGeometry relative="1" as="geometry"/></mxCell>
+        <mxCell id="e_member_sub" edge="1" parent="1" source="member" target="rel_subscribes" style="endArrow=none;html=1;rounded=0;strokeColor=#000000"><mxGeometry relative="1" as="geometry"/></mxCell>
+        <mxCell id="e_sub_membership" edge="1" parent="1" source="rel_subscribes" target="membership" style="endArrow=none;html=1;rounded=0;strokeColor=#000000"><mxGeometry relative="1" as="geometry"/></mxCell>
+        <mxCell id="e_member_reg" edge="1" parent="1" source="member" target="rel_registers" style="endArrow=none;html=1;rounded=0;strokeColor=#000000"><mxGeometry relative="1" as="geometry"/></mxCell>
+        <mxCell id="e_reg_location" edge="1" parent="1" source="rel_registers" target="location" style="endArrow=none;html=1;rounded=0;strokeColor=#000000"><mxGeometry relative="1" as="geometry"/></mxCell>
+        <mxCell id="e_member_payment" edge="1" parent="1" source="member" target="rel_makes" style="endArrow=none;html=1;rounded=0;strokeColor=#000000"><mxGeometry relative="1" as="geometry"/></mxCell>
+        <mxCell id="e_makes_payment" edge="1" parent="1" source="rel_makes" target="payment" style="endArrow=none;html=1;rounded=0;strokeColor=#000000"><mxGeometry relative="1" as="geometry"/></mxCell>
+        <mxCell id="e_loc_employs" edge="1" parent="1" source="location" target="rel_employs" style="endArrow=none;html=1;rounded=0;strokeColor=#000000"><mxGeometry relative="1" as="geometry"/></mxCell>
+        <mxCell id="e_employs_trainer" edge="1" parent="1" source="rel_employs" target="trainer" style="endArrow=none;html=1;rounded=0;strokeColor=#000000"><mxGeometry relative="1" as="geometry"/></mxCell>
+        <mxCell id="e_fc_scheduled" edge="1" parent="1" source="fitness_class" target="rel_scheduled" style="endArrow=none;html=1;rounded=0;strokeColor=#000000"><mxGeometry relative="1" as="geometry"/></mxCell>
+        <mxCell id="e_scheduled_cs" edge="1" parent="1" source="rel_scheduled" target="class_session" style="endArrow=none;html=1;rounded=0;strokeColor=#000000"><mxGeometry relative="1" as="geometry"/></mxCell>
+        <mxCell id="e_trainer_conducts_class" edge="1" parent="1" source="trainer" target="rel_conducts_class" style="endArrow=none;html=1;rounded=0;strokeColor=#000000"><mxGeometry relative="1" as="geometry"/></mxCell>
+        <mxCell id="e_conducts_class_cs" edge="1" parent="1" source="rel_conducts_class" target="class_session" style="endArrow=none;html=1;rounded=0;strokeColor=#000000"><mxGeometry relative="1" as="geometry"/></mxCell>
+        <mxCell id="e_loc_hosts_class" edge="1" parent="1" source="location" target="rel_hosts_class" style="endArrow=none;html=1;rounded=0;strokeColor=#000000"><mxGeometry relative="1" as="geometry"/></mxCell>
+        <mxCell id="e_hosts_class_cs" edge="1" parent="1" source="rel_hosts_class" target="class_session" style="endArrow=none;html=1;rounded=0;strokeColor=#000000"><mxGeometry relative="1" as="geometry"/></mxCell>
+        <mxCell id="e_member_enrols" edge="1" parent="1" source="member" target="rel_enrols" style="endArrow=none;html=1;rounded=0;strokeColor=#000000"><mxGeometry relative="1" as="geometry"/></mxCell>
+        <mxCell id="e_enrols_enrollment" edge="1" parent="1" source="rel_enrols" target="enrollment" style="endArrow=none;html=1;rounded=0;strokeColor=#000000"><mxGeometry relative="1" as="geometry"/></mxCell>
+        <mxCell id="e_cs_enrollment" edge="1" parent="1" source="class_session" target="enrollment" style="endArrow=none;html=1;rounded=0;strokeColor=#000000"><mxGeometry relative="1" as="geometry"/></mxCell>
+        <mxCell id="e_enrollment_records" edge="1" parent="1" source="enrollment" target="rel_records" style="endArrow=none;html=1;rounded=0;strokeColor=#000000"><mxGeometry relative="1" as="geometry"/></mxCell>
+        <mxCell id="e_records_attendance" edge="1" parent="1" source="rel_records" target="attendance" style="endArrow=none;html=1;rounded=0;strokeColor=#000000"><mxGeometry relative="1" as="geometry"/></mxCell>
+        <mxCell id="e_member_checks" edge="1" parent="1" source="member" target="rel_checks_in" style="endArrow=none;html=1;rounded=0;strokeColor=#000000"><mxGeometry relative="1" as="geometry"/></mxCell>
+        <mxCell id="e_checks_visit" edge="1" parent="1" source="rel_checks_in" target="visit" style="endArrow=none;html=1;rounded=0;strokeColor=#000000"><mxGeometry relative="1" as="geometry"/></mxCell>
+        <mxCell id="e_location_visit" edge="1" parent="1" source="location" target="visit" style="endArrow=none;html=1;rounded=0;strokeColor=#000000"><mxGeometry relative="1" as="geometry"/></mxCell>
+        <mxCell id="e_member_pt" edge="1" parent="1" source="member" target="rel_pt_member" style="endArrow=none;html=1;rounded=0;strokeColor=#000000"><mxGeometry relative="1" as="geometry"/></mxCell>
+        <mxCell id="e_pt_member2" edge="1" parent="1" source="rel_pt_member" target="pt" style="endArrow=none;html=1;rounded=0;strokeColor=#000000"><mxGeometry relative="1" as="geometry"/></mxCell>
+        <mxCell id="e_trainer_pt" edge="1" parent="1" source="trainer" target="rel_pt_trainer" style="endArrow=none;html=1;rounded=0;strokeColor=#000000"><mxGeometry relative="1" as="geometry"/></mxCell>
+        <mxCell id="e_pt_trainer2" edge="1" parent="1" source="rel_pt_trainer" target="pt" style="endArrow=none;html=1;rounded=0;strokeColor=#000000"><mxGeometry relative="1" as="geometry"/></mxCell>
+        <mxCell id="e_loc_pt" edge="1" parent="1" source="location" target="rel_pt_location" style="endArrow=none;html=1;rounded=0;strokeColor=#000000"><mxGeometry relative="1" as="geometry"/></mxCell>
+        <mxCell id="e_pt_loc2" edge="1" parent="1" source="rel_pt_location" target="pt" style="endArrow=none;html=1;rounded=0;strokeColor=#000000"><mxGeometry relative="1" as="geometry"/></mxCell>
+        <mxCell id="card_sub_a" value="M" style="text;html=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1"><mxGeometry x="282" y="227" width="30" height="20" as="geometry"/></mxCell>
+        <mxCell id="card_sub_b" value="1" style="text;html=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1"><mxGeometry x="420" y="170" width="30" height="20" as="geometry"/></mxCell>
+        <mxCell id="card_reg_a" value="M" style="text;html=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1"><mxGeometry x="282" y="315" width="30" height="20" as="geometry"/></mxCell>
+        <mxCell id="card_reg_b" value="1" style="text;html=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1"><mxGeometry x="420" y="395" width="30" height="20" as="geometry"/></mxCell>
+        <mxCell id="card_pay_a" value="1" style="text;html=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1"><mxGeometry x="155" y="315" width="30" height="20" as="geometry"/></mxCell>
+        <mxCell id="card_pay_b" value="M" style="text;html=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1"><mxGeometry x="145" y="495" width="30" height="20" as="geometry"/></mxCell>
+        <mxCell id="card_emp_a" value="1" style="text;html=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1"><mxGeometry x="585" y="435" width="30" height="20" as="geometry"/></mxCell>
+        <mxCell id="card_emp_b" value="M" style="text;html=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1"><mxGeometry x="735" y="435" width="30" height="20" as="geometry"/></mxCell>
+        <mxCell id="card_sched_a" value="1" style="text;html=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1"><mxGeometry x="1115" y="175" width="30" height="20" as="geometry"/></mxCell>
+        <mxCell id="card_sched_b" value="M" style="text;html=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1"><mxGeometry x="1115" y="395" width="30" height="20" as="geometry"/></mxCell>
+        <mxCell id="card_trclass_a" value="1" style="text;html=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1"><mxGeometry x="910" y="420" width="30" height="20" as="geometry"/></mxCell>
+        <mxCell id="card_trclass_b" value="M" style="text;html=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1"><mxGeometry x="1010" y="420" width="30" height="20" as="geometry"/></mxCell>
+        <mxCell id="card_enrol_member" value="M" style="text;html=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1"><mxGeometry x="275" y="642" width="30" height="20" as="geometry"/></mxCell>
+        <mxCell id="card_enrol_cs" value="M" style="text;html=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1"><mxGeometry x="1010" y="665" width="30" height="20" as="geometry"/></mxCell>
+        <mxCell id="card_records_a" value="1" style="text;html=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1"><mxGeometry x="925" y="745" width="30" height="20" as="geometry"/></mxCell>
+        <mxCell id="card_records_b" value="0/1" style="text;html=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1"><mxGeometry x="1020" y="745" width="40" height="20" as="geometry"/></mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

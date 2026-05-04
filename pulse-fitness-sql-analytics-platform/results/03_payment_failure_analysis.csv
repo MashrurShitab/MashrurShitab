@@ -1,0 +1,3 @@
+﻿PaymentStatus,TransactionCount,AffectedMemberCount,MissedOrReversedRevenue
+Failed,85,85,3140.00
+Refunded,38,38,1360.00

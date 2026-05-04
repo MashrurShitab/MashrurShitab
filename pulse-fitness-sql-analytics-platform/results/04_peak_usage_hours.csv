@@ -1,0 +1,12 @@
+﻿LocationName,HourOfDay,VisitCount,UniqueVisitors
+Bankstown,7,231,115
+Bankstown,18,229,114
+Chatswood,7,227,114
+Chatswood,18,225,113
+Liverpool,18,229,115
+Liverpool,7,226,113
+Parramatta,18,228,113
+Parramatta,7,227,113
+"Sydney CBD",7,225,113
+"Sydney CBD",18,224,112
+"Sydney CBD",9,2,2

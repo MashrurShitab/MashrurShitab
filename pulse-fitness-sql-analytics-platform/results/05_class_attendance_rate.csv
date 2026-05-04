@@ -1,0 +1,7 @@
+﻿ClassName,SessionCount,BookingCount,AttendedCount,NoShowCount,AttendanceRatePct
+HIIT,2,200,198,0,99.50
+Yoga,2,208,205,0,99.03
+Zumba,2,200,196,1,98.99
+CrossFit,2,200,196,1,98.99
+Pilates,2,200,197,1,98.99
+Spin,2,200,195,1,98.48

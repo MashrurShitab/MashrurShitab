@@ -1,0 +1,18 @@
+﻿MemberID,FullName,MembershipType,LocationName,VisitCountLast60Days,LastVisitDate
+5,"Noah Davis",Basic,"Sydney CBD",0,NULL
+8,"Ava Martin",Basic,Chatswood,0,NULL
+9,"Lucas White",Student,Liverpool,0,NULL
+15,"Zoe Hall",Student,Liverpool,0,NULL
+13,"Grace Young",Premium,"Sydney CBD",1,"2025-05-18 07:00:00"
+19,"Ella Baker",Premium,Chatswood,1,"2025-05-19 18:00:00"
+24,"Leo Mitchell",Premium,Chatswood,1,"2025-05-21 07:00:00"
+30,"Tom Evans",Premium,Liverpool,1,"2025-05-23 18:00:00"
+16,"Isaac Green",Premium,Bankstown,1,"2025-06-04 07:00:00"
+21,"Ruby Clark",Premium,Bankstown,1,"2025-06-11 18:00:00"
+27,"Natalie Ward",Premium,Parramatta,1,"2025-06-13 07:00:00"
+2,"Maya Thompson",Basic,Bankstown,2,"2025-06-06 18:00:00"
+3,"Liam Wilson",Student,Parramatta,2,"2025-06-07 18:00:00"
+1,"Alex Carter",Premium,Bankstown,2,"2025-06-10 07:00:00"
+4,"Olivia Brown",Premium,Parramatta,2,"2025-06-12 18:00:00"
+7,"Ethan Lee",Premium,Chatswood,2,"2025-06-14 07:00:00"
+10,"Mia Harris",Premium,Liverpool,2,"2025-06-16 18:00:00"

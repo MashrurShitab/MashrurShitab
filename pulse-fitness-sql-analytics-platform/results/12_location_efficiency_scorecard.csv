@@ -1,0 +1,6 @@
+﻿LocationID,LocationName,City,TotalRevenue,MemberCount,TotalVisits,RevenuePerVisit,ClassAttendanceRate,AverageTrainerRating,FailedPaymentRate,EfficiencyRank
+2,Parramatta,Parramatta,29820.00,116,455,65.54,99.33,4.33,2.44,1
+1,Bankstown,Bankstown,29940.00,118,460,65.09,99.35,4.67,2.29,2
+5,Liverpool,Liverpool,28240.00,119,455,62.07,97.99,4.11,2.30,3
+4,Chatswood,Chatswood,18365.00,118,452,40.63,99.50,4.00,2.45,4
+3,"Sydney CBD",Sydney,18145.00,117,451,40.23,98.48,4.00,2.73,5
